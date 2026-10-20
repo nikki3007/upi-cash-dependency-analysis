@@ -1,0 +1,781 @@
+Month  , Bank_Name               , Bank_Type, ATM_Withdrawal_Volume, ATM_Withdrawal_Value_Million_Rs, Source_Rows, Source_File
+2019-01, AXIS BANK               , Private  ,           28664882.0 ,           143003.29803719      ,           1, JAN 2019.XLSX
+2019-01, BANDHAN BANK            , Private  ,            2020357.0 ,             7335.316863        ,           1, JAN 2019.XLSX
+2019-01, BANK OF BARODA          , Public   ,           32075795.0 ,           122444.4580969       ,           3, JAN 2019.XLSX
+2019-01, BANK OF INDIA           , Public   ,           35033516.0 ,            60980.79661983      ,           1, JAN 2019.XLSX
+2019-01, BANK OF MAHARASHTRA     , Public   ,            6725736.0 ,            23440.33071836      ,           1, JAN 2019.XLSX
+2019-01, CANARA BANK             , Public   ,           30187824.0 ,           124533.08557237001   ,           2, JAN 2019.XLSX
+2019-01, CENTRAL BANK OF INDIA   , Public   ,           10073579.0 ,            40222.241081        ,           1, JAN 2019.XLSX
+2019-01, CITY UNION BANK         , Private  ,            2362264.0 ,            10383.87962323      ,           1, JAN 2019.XLSX
+2019-01, CSB BANK                , Private  ,             639568.0 ,             2020.27264191      ,           1, JAN 2019.XLSX
+2019-01, DCB BANK                , Private  ,             530016.0 ,             2529.500598        ,           1, JAN 2019.XLSX
+2019-01, DHANALAKSHMI BANK       , Private  ,             688590.0 ,             1604.29395         ,           1, JAN 2019.XLSX
+2019-01, FEDERAL BANK            , Private  ,            7773298.0 ,            38822.93418507      ,           1, JAN 2019.XLSX
+2019-01, HDFC BANK               , Private  ,           36736004.0 ,           185292.605349        ,           1, JAN 2019.XLSX
+2019-01, ICICI BANK              , Private  ,           34186107.0 ,           171956.486204        ,           1, JAN 2019.XLSX
+2019-01, IDBI BANK               , Private  ,            9451090.0 ,            40973.19836408      ,           1, JAN 2019.XLSX
+2019-01, IDFC FIRST BANK         , Private  ,            2117398.0 ,             6872.72555255      ,           1, JAN 2019.XLSX
+2019-01, INDIAN BANK             , Public   ,           44101190.0 ,            82299.49902121999   ,           2, JAN 2019.XLSX
+2019-01, INDIAN OVERSEAS BANK    , Public   ,           12757846.0 ,            52430.1399          ,           1, JAN 2019.XLSX
+2019-01, INDUSIND BANK           , Private  ,            3720270.0 ,            16452.876341919997  ,           1, JAN 2019.XLSX
+2019-01, JAMMU AND KASHMIR BANK  , Private  ,            5552394.0 ,            24826.97530903      ,           1, JAN 2019.XLSX
+2019-01, KARNATAKA BANK          , Private  ,            4712721.0 ,            18057.27775489      ,           1, JAN 2019.XLSX
+2019-01, KARUR VYSYA BANK        , Private  ,            5490761.0 ,            23540.65445327      ,           1, JAN 2019.XLSX
+2019-01, KOTAK MAHINDRA BANK     , Private  ,            8642345.0 ,            33679.5549916       ,           1, JAN 2019.XLSX
+2019-01, PUNJAB AND SIND BANK    , Public   ,            1183130.0 ,             4802.26351639      ,           1, JAN 2019.XLSX
+2019-01, PUNJAB NATIONAL BANK    , Public   ,           33430280.0 ,           143001.95278112      ,           3, JAN 2019.XLSX
+2019-01, RBL BANK                , Private  ,             787410.0 ,             2718.398301110005  ,           1, JAN 2019.XLSX
+2019-01, SOUTH INDIAN BANK       , Private  ,            2954716.0 ,            11381.528789        ,           1, JAN 2019.XLSX
+2019-01, STATE BANK OF INDIA     , Public   ,          447453519.0 ,          1026932.92478236      ,           1, JAN 2019.XLSX
+2019-01, TAMILNAD MERCANTILE BANK, Private  ,            4681498.0 ,            18806.3148          ,           1, JAN 2019.XLSX
+2019-01, UCO BANK                , Public   ,            5826115.0 ,            22697.964165        ,           1, JAN 2019.XLSX
+2019-01, UNION BANK OF INDIA     , Public   ,           44150648.0 ,           136473.49567321      ,           3, JAN 2019.XLSX
+2019-01, YES BANK                , Private  ,            3233490.0 ,            14287.074141        ,           1, JAN 2019.XLSX
+2019-02, AXIS BANK               , Private  ,           26967163.0 ,           135411.47411220998   ,           1, FEB 2019.XLSX
+2019-02, BANDHAN BANK            , Private  ,            1939588.0 ,             7188.655518        ,           1, FEB 2019.XLSX
+2019-02, BANK OF BARODA          , Public   ,           28595465.0 ,           111610.75962453      ,           3, FEB 2019.XLSX
+2019-02, BANK OF INDIA           , Public   ,           34343155.0 ,            63170.71925358      ,           1, FEB 2019.XLSX
+2019-02, BANK OF MAHARASHTRA     , Public   ,            6772706.0 ,            24071.33736326      ,           1, FEB 2019.XLSX
+2019-02, CANARA BANK             , Public   ,           29189008.0 ,           121586.79605948001   ,           2, FEB 2019.XLSX
+2019-02, CENTRAL BANK OF INDIA   , Public   ,           10239076.0 ,            41314.883662        ,           1, FEB 2019.XLSX
+2019-02, CITY UNION BANK         , Private  ,            2321948.0 ,            10422.28108723      ,           1, FEB 2019.XLSX
+2019-02, CSB BANK                , Private  ,             578900.0 ,             1890.33046528      ,           1, FEB 2019.XLSX
+2019-02, DCB BANK                , Private  ,             524855.0 ,             2501.726495        ,           1, FEB 2019.XLSX
+2019-02, DHANALAKSHMI BANK       , Private  ,             543745.0 ,             1658.0399          ,           1, FEB 2019.XLSX
+2019-02, FEDERAL BANK            , Private  ,            7455366.0 ,            36918.02503554      ,           1, FEB 2019.XLSX
+2019-02, HDFC BANK               , Private  ,           34783795.0 ,           178057.86199         ,           1, FEB 2019.XLSX
+2019-02, ICICI BANK              , Private  ,           32065512.0 ,           163380.880526        ,           1, FEB 2019.XLSX
+2019-02, IDBI BANK               , Private  ,            8946831.0 ,            39164.62549112      ,           1, FEB 2019.XLSX
+2019-02, IDFC FIRST BANK         , Private  ,            2113952.0 ,             7225.95980107      ,           1, FEB 2019.XLSX
+2019-02, INDIAN BANK             , Public   ,           42808402.0 ,            81473.52490463      ,           2, FEB 2019.XLSX
+2019-02, INDIAN OVERSEAS BANK    , Public   ,           12500117.0 ,            51104.0983          ,           1, FEB 2019.XLSX
+2019-02, INDUSIND BANK           , Private  ,            3563484.0 ,            16077.083667620002  ,           1, FEB 2019.XLSX
+2019-02, JAMMU AND KASHMIR BANK  , Private  ,            5036588.0 ,            23544.59553217      ,           1, FEB 2019.XLSX
+2019-02, KARNATAKA BANK          , Private  ,            4521877.0 ,            17493.864988        ,           1, FEB 2019.XLSX
+2019-02, KARUR VYSYA BANK        , Private  ,            5429936.0 ,            23545.93260946      ,           1, FEB 2019.XLSX
+2019-02, KOTAK MAHINDRA BANK     , Private  ,            8127961.0 ,            32237.35046263      ,           1, FEB 2019.XLSX
+2019-02, PUNJAB AND SIND BANK    , Public   ,            1249067.0 ,             5210.236409        ,           1, FEB 2019.XLSX
+2019-02, PUNJAB NATIONAL BANK    , Public   ,           33440320.0 ,           144386.37358731      ,           3, FEB 2019.XLSX
+2019-02, RBL BANK                , Private  ,             733867.0 ,             2529.4307996       ,           1, FEB 2019.XLSX
+2019-02, SOUTH INDIAN BANK       , Private  ,            2844626.0 ,            10845.142447        ,           1, FEB 2019.XLSX
+2019-02, STATE BANK OF INDIA     , Public   ,          401232064.0 ,           998075.51603472      ,           1, FEB 2019.XLSX
+2019-02, TAMILNAD MERCANTILE BANK, Private  ,            4474609.0 ,            18269.1146          ,           1, FEB 2019.XLSX
+2019-02, UCO BANK                , Public   ,            5544454.0 ,            21743.469378        ,           1, FEB 2019.XLSX
+2019-02, UNION BANK OF INDIA     , Public   ,           43627960.0 ,           135875.58449474      ,           3, FEB 2019.XLSX
+2019-02, YES BANK                , Private  ,            3069978.0 ,            13443.921448        ,           1, FEB 2019.XLSX
+2019-03, AXIS BANK               , Private  ,           30384309.0 ,           152110.11424678998   ,           1, MAR 2019.XLSX
+2019-03, BANDHAN BANK            , Private  ,            2235090.0 ,             8406.956692        ,           1, MAR 2019.XLSX
+2019-03, BANK OF BARODA          , Public   ,           31145010.0 ,           120920.25997999999   ,           3, MAR 2019.XLSX
+2019-03, BANK OF INDIA           , Public   ,           41902267.0 ,            72364.78136148001   ,           1, MAR 2019.XLSX
+2019-03, BANK OF MAHARASHTRA     , Public   ,            7781056.0 ,            27986.75812687      ,           1, MAR 2019.XLSX
+2019-03, CANARA BANK             , Public   ,           33398284.0 ,           137839.41223566      ,           2, MAR 2019.XLSX
+2019-03, CENTRAL BANK OF INDIA   , Public   ,           11720606.0 ,            47398.403688        ,           1, MAR 2019.XLSX
+2019-03, CITY UNION BANK         , Private  ,            2636394.0 ,            11872.85148384      ,           1, MAR 2019.XLSX
+2019-03, CSB BANK                , Private  ,             598171.0 ,             1958.57174094      ,           1, MAR 2019.XLSX
+2019-03, DCB BANK                , Private  ,             558313.0 ,             2825.954698        ,           1, MAR 2019.XLSX
+2019-03, DHANALAKSHMI BANK       , Private  ,             588978.0 ,             1872.59            ,           1, MAR 2019.XLSX
+2019-03, FEDERAL BANK            , Private  ,            8443260.0 ,            42159.619483270006  ,           1, MAR 2019.XLSX
+2019-03, HDFC BANK               , Private  ,           39437806.0 ,           201946.840726        ,           1, MAR 2019.XLSX
+2019-03, ICICI BANK              , Private  ,           35862767.0 ,           183292.045228        ,           1, MAR 2019.XLSX
+2019-03, IDBI BANK               , Private  ,           10005549.0 ,            43780.32150903      ,           1, MAR 2019.XLSX
+2019-03, IDFC FIRST BANK         , Private  ,            2391005.0 ,             8486.939594        ,           1, MAR 2019.XLSX
+2019-03, INDIAN BANK             , Public   ,           48457261.0 ,            91115.06750432      ,           2, MAR 2019.XLSX
+2019-03, INDIAN OVERSEAS BANK    , Public   ,           14361737.0 ,            58665.2482          ,           1, MAR 2019.XLSX
+2019-03, INDUSIND BANK           , Private  ,            3859084.0 ,            17696.25530715      ,           1, MAR 2019.XLSX
+2019-03, JAMMU AND KASHMIR BANK  , Private  ,            6425261.0 ,            28754.89096637      ,           1, MAR 2019.XLSX
+2019-03, KARNATAKA BANK          , Private  ,            5172841.0 ,            19710.72128195      ,           1, MAR 2019.XLSX
+2019-03, KARUR VYSYA BANK        , Private  ,            6191412.0 ,            26824.25063398      ,           1, MAR 2019.XLSX
+2019-03, KOTAK MAHINDRA BANK     , Private  ,            9198037.0 ,            36424.11422666001   ,           1, MAR 2019.XLSX
+2019-03, PUNJAB AND SIND BANK    , Public   ,            1467982.0 ,             6022.09302058      ,           1, MAR 2019.XLSX
+2019-03, PUNJAB NATIONAL BANK    , Public   ,           38987249.0 ,           165332.68357781      ,           3, MAR 2019.XLSX
+2019-03, RBL BANK                , Private  ,             800916.0 ,             2837.2426368400024 ,           1, MAR 2019.XLSX
+2019-03, SOUTH INDIAN BANK       , Private  ,            3225423.0 ,            12483.613555        ,           1, MAR 2019.XLSX
+2019-03, STATE BANK OF INDIA     , Public   ,          417169584.0 ,          1090231.99892819      ,           1, MAR 2019.XLSX
+2019-03, TAMILNAD MERCANTILE BANK, Private  ,            5093514.0 ,            20755.0294          ,           1, MAR 2019.XLSX
+2019-03, UCO BANK                , Public   ,            6099403.0 ,            23569.98632         ,           1, MAR 2019.XLSX
+2019-03, UNION BANK OF INDIA     , Public   ,           48164304.0 ,           147772.73602956      ,           3, MAR 2019.XLSX
+2019-03, YES BANK                , Private  ,            3388762.0 ,            14887.255216        ,           1, MAR 2019.XLSX
+2019-04, AXIS BANK               , Private  ,           28563247.0 ,           144103.58735616002   ,           1, APR 2019.XLSX
+2019-04, BANDHAN BANK            , Private  ,            2142270.0 ,             8269.013867        ,           1, APR 2019.XLSX
+2019-04, BANK OF BARODA          , Public   ,           30539459.0 ,           119082.927779        ,           1, APR 2019.XLSX
+2019-04, BANK OF INDIA           , Public   ,           18760046.0 ,            69156.54609727999   ,           1, APR 2019.XLSX
+2019-04, BANK OF MAHARASHTRA     , Public   ,            7375325.0 ,            26967.1412951       ,           1, APR 2019.XLSX
+2019-04, CANARA BANK             , Public   ,           31850091.0 ,           135724.28734408      ,           2, APR 2019.XLSX
+2019-04, CENTRAL BANK OF INDIA   , Public   ,           11497274.0 ,            48144.239035        ,           1, APR 2019.XLSX
+2019-04, CITY UNION BANK         , Private  ,            2413621.0 ,            11100.3063297       ,           1, APR 2019.XLSX
+2019-04, CSB BANK                , Private  ,             642691.0 ,             1931.1782          ,           1, APR 2019.XLSX
+2019-04, DCB BANK                , Private  ,             537892.0 ,             2741.329824        ,           1, APR 2019.XLSX
+2019-04, DHANALAKSHMI BANK       , Private  ,             554641.0 ,             1861.2514          ,           1, APR 2019.XLSX
+2019-04, FEDERAL BANK            , Private  ,            8006462.0 ,            40916.887496970005  ,           1, APR 2019.XLSX
+2019-04, HDFC BANK               , Private  ,           37099927.0 ,           191832.45587         ,           1, APR 2019.XLSX
+2019-04, ICICI BANK              , Private  ,           33797897.0 ,           174744.927262        ,           1, APR 2019.XLSX
+2019-04, IDBI BANK               , Private  ,            9476616.0 ,            42078.30565271      ,           1, APR 2019.XLSX
+2019-04, IDFC FIRST BANK         , Private  ,            2253757.0 ,             8430.163465020001  ,           1, APR 2019.XLSX
+2019-04, INDIAN BANK             , Public   ,           43418435.0 ,            87276.29480526      ,           2, APR 2019.XLSX
+2019-04, INDIAN OVERSEAS BANK    , Public   ,           13335845.0 ,            56373.4167          ,           1, APR 2019.XLSX
+2019-04, INDUSIND BANK           , Private  ,            3638009.0 ,            16559.22419572      ,           1, APR 2019.XLSX
+2019-04, JAMMU AND KASHMIR BANK  , Private  ,            6612555.0 ,            30157.33169114      ,           1, APR 2019.XLSX
+2019-04, KARNATAKA BANK          , Private  ,            4700391.0 ,            18460.122646        ,           1, APR 2019.XLSX
+2019-04, KARUR VYSYA BANK        , Private  ,            5715987.0 ,            25242.61071942      ,           1, APR 2019.XLSX
+2019-04, KOTAK MAHINDRA BANK     , Private  ,            8659522.0 ,            34708.14206372      ,           1, APR 2019.XLSX
+2019-04, PUNJAB AND SIND BANK    , Public   ,            1440328.0 ,             6062.056009        ,           1, APR 2019.XLSX
+2019-04, PUNJAB NATIONAL BANK    , Public   ,           38265624.0 ,           166367.95909838      ,           3, APR 2019.XLSX
+2019-04, RBL BANK                , Private  ,             768514.0 ,             2752.67249226      ,           1, APR 2019.XLSX
+2019-04, SOUTH INDIAN BANK       , Private  ,            2965451.0 ,            12088.002636        ,           1, APR 2019.XLSX
+2019-04, STATE BANK OF INDIA     , Public   ,          382742667.0 ,          1100651.29584779      ,           1, APR 2019.XLSX
+2019-04, TAMILNAD MERCANTILE BANK, Private  ,            4641082.0 ,            19444.3222          ,           1, APR 2019.XLSX
+2019-04, UCO BANK                , Public   ,            5879795.0 ,            23281.59318         ,           1, APR 2019.XLSX
+2019-04, UNION BANK OF INDIA     , Public   ,           44604657.0 ,           149617.77828851      ,           3, APR 2019.XLSX
+2019-04, YES BANK                , Private  ,            3204720.0 ,            13998.460297        ,           1, APR 2019.XLSX
+2019-05, AXIS BANK               , Private  ,           29505062.0 ,           147832.52259869      ,           1, MAY 2019.XLSX
+2019-05, BANDHAN BANK            , Private  ,            2140338.0 ,             8028.25893         ,           1, MAY 2019.XLSX
+2019-05, BANK OF BARODA          , Public   ,           32035602.0 ,           125633.46202557      ,           1, MAY 2019.XLSX
+2019-05, BANK OF INDIA           , Public   ,           19297659.0 ,            70860.31552478      ,           1, MAY 2019.XLSX
+2019-05, BANK OF MAHARASHTRA     , Public   ,            7684055.0 ,            28463.64911455      ,           1, MAY 2019.XLSX
+2019-05, CANARA BANK             , Public   ,           33578664.0 ,           144311.67515376      ,           2, MAY 2019.XLSX
+2019-05, CENTRAL BANK OF INDIA   , Public   ,           11821816.0 ,            49359.594926        ,           1, MAY 2019.XLSX
+2019-05, CITY UNION BANK         , Private  ,            2563691.0 ,            11799.222358280002  ,           1, MAY 2019.XLSX
+2019-05, CSB BANK                , Private  ,             513603.0 ,             2082.8048          ,           1, MAY 2019.XLSX
+2019-05, DCB BANK                , Private  ,             539028.0 ,             2783.478582        ,           1, MAY 2019.XLSX
+2019-05, DHANALAKSHMI BANK       , Private  ,             562798.0 ,             1966.0567          ,           1, MAY 2019.XLSX
+2019-05, FEDERAL BANK            , Private  ,            8466910.0 ,            43998.13810232      ,           1, MAY 2019.XLSX
+2019-05, HDFC BANK               , Private  ,           38952187.0 ,           202573.626136        ,           1, MAY 2019.XLSX
+2019-05, ICICI BANK              , Private  ,           34951713.0 ,           180612.001998        ,           1, MAY 2019.XLSX
+2019-05, IDBI BANK               , Private  ,            9701166.0 ,            43178.96132847      ,           1, MAY 2019.XLSX
+2019-05, IDFC FIRST BANK         , Private  ,            2354495.0 ,             8634.47600067      ,           1, MAY 2019.XLSX
+2019-05, INDIAN BANK             , Public   ,           43092743.0 ,            92028.08527895      ,           2, MAY 2019.XLSX
+2019-05, INDIAN OVERSEAS BANK    , Public   ,           13744815.0 ,            58377.7897          ,           1, MAY 2019.XLSX
+2019-05, INDUSIND BANK           , Private  ,            3916820.0 ,            17556.02888391      ,           1, MAY 2019.XLSX
+2019-05, JAMMU AND KASHMIR BANK  , Private  ,            6720203.0 ,            31105.45462468      ,           1, MAY 2019.XLSX
+2019-05, KARNATAKA BANK          , Private  ,            4810920.0 ,            19021.87509817      ,           1, MAY 2019.XLSX
+2019-05, KARUR VYSYA BANK        , Private  ,            5948337.0 ,            26161.76831046      ,           1, MAY 2019.XLSX
+2019-05, KOTAK MAHINDRA BANK     , Private  ,            8959368.0 ,            35825.38178504      ,           1, MAY 2019.XLSX
+2019-05, PUNJAB AND SIND BANK    , Public   ,            1512752.0 ,             6349.45196181      ,           1, MAY 2019.XLSX
+2019-05, PUNJAB NATIONAL BANK    , Public   ,           38098974.0 ,           165181.05624504      ,           3, MAY 2019.XLSX
+2019-05, RBL BANK                , Private  ,             842691.0 ,             2875.337326539998  ,           1, MAY 2019.XLSX
+2019-05, SOUTH INDIAN BANK       , Private  ,            3040148.0 ,            12695.226881        ,           1, MAY 2019.XLSX
+2019-05, STATE BANK OF INDIA     , Public   ,          376403513.0 ,          1130261.40735359      ,           1, MAY 2019.XLSX
+2019-05, TAMILNAD MERCANTILE BANK, Private  ,            5258999.0 ,            22021.5323          ,           1, MAY 2019.XLSX
+2019-05, UCO BANK                , Public   ,            6038299.0 ,            24011.234198        ,           1, MAY 2019.XLSX
+2019-05, UNION BANK OF INDIA     , Public   ,           45902228.0 ,           154608.83573172      ,           3, MAY 2019.XLSX
+2019-05, YES BANK                , Private  ,            3298836.0 ,            14639.155968        ,           1, MAY 2019.XLSX
+2019-06, AXIS BANK               , Private  ,           28143987.0 ,           138894.96147182002   ,           1, JUN 2019.XLSX
+2019-06, BANDHAN BANK            , Private  ,            2161664.0 ,             7806.967731        ,           1, JUN 2019.XLSX
+2019-06, BANK OF BARODA          , Public   ,           30569165.0 ,           117955.82002228      ,           1, JUN 2019.XLSX
+2019-06, BANK OF INDIA           , Public   ,           18795068.0 ,            67752.85537125      ,           1, JUN 2019.XLSX
+2019-06, BANK OF MAHARASHTRA     , Public   ,            7391749.0 ,            27020.84695062      ,           1, JUN 2019.XLSX
+2019-06, CANARA BANK             , Public   ,           32638153.0 ,           138146.96166169998   ,           2, JUN 2019.XLSX
+2019-06, CENTRAL BANK OF INDIA   , Public   ,           11446742.0 ,            46769.562497        ,           1, JUN 2019.XLSX
+2019-06, CITY UNION BANK         , Private  ,            2466242.0 ,            11367.83905925      ,           1, JUN 2019.XLSX
+2019-06, CSB BANK                , Private  ,             668870.0 ,             2083.42335         ,           1, JUN 2019.XLSX
+2019-06, DCB BANK                , Private  ,             524743.0 ,             2605.21648687      ,           1, JUN 2019.XLSX
+2019-06, DHANALAKSHMI BANK       , Private  ,             534849.0 ,             1821.83655         ,           1, JUN 2019.XLSX
+2019-06, FEDERAL BANK            , Private  ,            8298874.0 ,            41717.82724214999   ,           1, JUN 2019.XLSX
+2019-06, HDFC BANK               , Private  ,           38105538.0 ,           195912.559159        ,           1, JUN 2019.XLSX
+2019-06, ICICI BANK              , Private  ,           33761075.0 ,           171522.817258        ,           1, JUN 2019.XLSX
+2019-06, IDBI BANK               , Private  ,            9319987.0 ,            40561.24203785      ,           1, JUN 2019.XLSX
+2019-06, IDFC FIRST BANK         , Private  ,            2332746.0 ,             8543.27913782      ,           1, JUN 2019.XLSX
+2019-06, INDIAN BANK             , Public   ,           41098329.0 ,            88275.0193868       ,           2, JUN 2019.XLSX
+2019-06, INDIAN OVERSEAS BANK    , Public   ,           13433453.0 ,            56986.9159          ,           1, JUN 2019.XLSX
+2019-06, INDUSIND BANK           , Private  ,            3818416.0 ,            16933.409781529997  ,           1, JUN 2019.XLSX
+2019-06, JAMMU AND KASHMIR BANK  , Private  ,            6371633.0 ,            29998.383063380003  ,           1, JUN 2019.XLSX
+2019-06, KARNATAKA BANK          , Private  ,            4685647.0 ,            17968.508113        ,           1, JUN 2019.XLSX
+2019-06, KARUR VYSYA BANK        , Private  ,            5726526.0 ,            25098.9204136       ,           1, JUN 2019.XLSX
+2019-06, KOTAK MAHINDRA BANK     , Private  ,            8888539.0 ,            34880.62206955004   ,           1, JUN 2019.XLSX
+2019-06, PUNJAB AND SIND BANK    , Public   ,            1447299.0 ,             5975.309125010001  ,           1, JUN 2019.XLSX
+2019-06, PUNJAB NATIONAL BANK    , Public   ,           37349730.0 ,           158924.71190966      ,           3, JUN 2019.XLSX
+2019-06, RBL BANK                , Private  ,             828222.0 ,             2729.14758468      ,           1, JUN 2019.XLSX
+2019-06, SOUTH INDIAN BANK       , Private  ,            3022133.0 ,            12261.923801        ,           1, JUN 2019.XLSX
+2019-06, STATE BANK OF INDIA     , Public   ,          371824160.0 ,          1089019.46499724      ,           1, JUN 2019.XLSX
+2019-06, TAMILNAD MERCANTILE BANK, Private  ,            5222610.0 ,            21704.9257          ,           1, JUN 2019.XLSX
+2019-06, UCO BANK                , Public   ,            5924316.0 ,            23284.49627         ,           1, JUN 2019.XLSX
+2019-06, UNION BANK OF INDIA     , Public   ,           47817510.0 ,           155979.25990674      ,           3, JUN 2019.XLSX
+2019-06, YES BANK                , Private  ,            3203741.0 ,            13860.557009        ,           1, JUN 2019.XLSX
+2019-07, AXIS BANK               , Private  ,           27801324.0 ,           134894.91444496      ,           1, JUL 2019.XLSX
+2019-07, BANDHAN BANK            , Private  ,            2244069.0 ,             7991.876337000001  ,           1, JUL 2019.XLSX
+2019-07, BANK OF BARODA          , Public   ,           32145143.0 ,           121253.18096700002   ,           1, JUL 2019.XLSX
+2019-07, BANK OF INDIA           , Public   ,           19581996.0 ,            68239.43038851001   ,           1, JUL 2019.XLSX
+2019-07, BANK OF MAHARASHTRA     , Public   ,            7784604.0 ,            27307.447904810004  ,           1, JUL 2019.XLSX
+2019-07, CANARA BANK             , Public   ,           33937763.0 ,           139151.21773649      ,           2, JUL 2019.XLSX
+2019-07, CENTRAL BANK OF INDIA   , Public   ,           11933852.0 ,            47184.50268500001   ,           1, JUL 2019.XLSX
+2019-07, CITY UNION BANK         , Private  ,            2561942.0 ,            11501.732147440001  ,           1, JUL 2019.XLSX
+2019-07, CSB BANK                , Private  ,             718749.0 ,             2289.7149000000004 ,           1, JUL 2019.XLSX
+2019-07, DCB BANK                , Private  ,             538091.0 ,             2584.1833340000003 ,           1, JUL 2019.XLSX
+2019-07, DHANALAKSHMI BANK       , Private  ,             566022.0 ,             1843.5909000000001 ,           1, JUL 2019.XLSX
+2019-07, FEDERAL BANK            , Private  ,            8723088.0 ,            43866.839647960005  ,           1, JUL 2019.XLSX
+2019-07, HDFC BANK               , Private  ,           37984244.0 ,           191311.719753        ,           1, JUL 2019.XLSX
+2019-07, ICICI BANK              , Private  ,           33098252.0 ,           164822.05779700002   ,           1, JUL 2019.XLSX
+2019-07, IDBI BANK               , Private  ,            9449057.0 ,            40499.399484        ,           1, JUL 2019.XLSX
+2019-07, IDFC FIRST BANK         , Private  ,            2443526.0 ,             8487.19948312      ,           1, JUL 2019.XLSX
+2019-07, INDIAN BANK             , Public   ,           39030311.0 ,            89488.6             ,           2, JUL 2019.XLSX
+2019-07, INDIAN OVERSEAS BANK    , Public   ,           13988221.0 ,            57916.953700000005  ,           1, JUL 2019.XLSX
+2019-07, INDUSIND BANK           , Private  ,            3832519.0 ,            17252.735380809998  ,           1, JUL 2019.XLSX
+2019-07, JAMMU AND KASHMIR BANK  , Private  ,            6783367.0 ,            30890.07942534      ,           1, JUL 2019.XLSX
+2019-07, KARNATAKA BANK          , Private  ,            4852886.0 ,            18111.117782        ,           1, JUL 2019.XLSX
+2019-07, KARUR VYSYA BANK        , Private  ,            5944080.0 ,            25490.40024559      ,           1, JUL 2019.XLSX
+2019-07, KOTAK MAHINDRA BANK     , Private  ,            9073964.0 ,            34578.07748196      ,           1, JUL 2019.XLSX
+2019-07, PUNJAB AND SIND BANK    , Public   ,            1519159.0 ,             6118.031635490001  ,           1, JUL 2019.XLSX
+2019-07, PUNJAB NATIONAL BANK    , Public   ,           37775528.0 ,           157172.41229818      ,           3, JUL 2019.XLSX
+2019-07, RBL BANK                , Private  ,             807593.0 ,             2729.71118654      ,           1, JUL 2019.XLSX
+2019-07, SOUTH INDIAN BANK       , Private  ,            3168169.0 ,            12692.566371        ,           1, JUL 2019.XLSX
+2019-07, STATE BANK OF INDIA     , Public   ,          379148480.0 ,          1077863.5825825701    ,           1, JUL 2019.XLSX
+2019-07, TAMILNAD MERCANTILE BANK, Private  ,            5404285.0 ,            21695.7588          ,           1, JUL 2019.XLSX
+2019-07, UCO BANK                , Public   ,            6241323.0 ,            23738.013716        ,           1, JUL 2019.XLSX
+2019-07, UNION BANK OF INDIA     , Public   ,           49833238.0 ,           156008.38537017      ,           3, JUL 2019.XLSX
+2019-07, YES BANK                , Private  ,            3225233.0 ,            13756.418851000002  ,           1, JUL 2019.XLSX
+2019-08, AXIS BANK               , Private  ,           28173088.0 ,           138651.86354349      ,           1, AUG 2019.XLSX
+2019-08, BANDHAN BANK            , Private  ,            2281658.0 ,             8203.615487000001  ,           1, AUG 2019.XLSX
+2019-08, BANK OF BARODA          , Public   ,           32300901.0 ,           132224.16563975      ,           1, AUG 2019.XLSX
+2019-08, BANK OF INDIA           , Public   ,           19761792.0 ,            68997.149457        ,           1, AUG 2019.XLSX
+2019-08, BANK OF MAHARASHTRA     , Public   ,            7793983.0 ,            27631.049145240002  ,           1, AUG 2019.XLSX
+2019-08, CANARA BANK             , Public   ,           35356735.0 ,           153671.74484220005   ,           2, AUG 2019.XLSX
+2019-08, CENTRAL BANK OF INDIA   , Public   ,           12098197.0 ,            47357.72197214      ,           1, AUG 2019.XLSX
+2019-08, CITY UNION BANK         , Private  ,            2454489.0 ,            11081.743337300002  ,           1, AUG 2019.XLSX
+2019-08, CSB BANK                , Private  ,             710477.0 ,             2249.6414          ,           1, AUG 2019.XLSX
+2019-08, DCB BANK                , Private  ,             549750.0 ,             2676.6734020000004 ,           1, AUG 2019.XLSX
+2019-08, DHANALAKSHMI BANK       , Private  ,             549648.0 ,             1860.22935         ,           1, AUG 2019.XLSX
+2019-08, FEDERAL BANK            , Private  ,            8649955.0 ,            43703.30229783      ,           1, AUG 2019.XLSX
+2019-08, HDFC BANK               , Private  ,           39464154.0 ,           200635.89484000002   ,           1, AUG 2019.XLSX
+2019-08, ICICI BANK              , Private  ,           34114316.0 ,           171513.853727        ,           1, AUG 2019.XLSX
+2019-08, IDBI BANK               , Private  ,            9365243.0 ,            40463.887217350006  ,           1, AUG 2019.XLSX
+2019-08, IDFC FIRST BANK         , Private  ,            2403769.0 ,             8419.57353671      ,           1, AUG 2019.XLSX
+2019-08, INDIAN BANK             , Public   ,           36258159.0 ,            90595.37313400001   ,           2, AUG 2019.XLSX
+2019-08, INDIAN OVERSEAS BANK    , Public   ,           14032469.0 ,            58506.749500000005  ,           1, AUG 2019.XLSX
+2019-08, INDUSIND BANK           , Private  ,            4129575.0 ,            17986.551939260004  ,           1, AUG 2019.XLSX
+2019-08, JAMMU AND KASHMIR BANK  , Private  ,            4304155.0 ,            23558.55949011      ,           1, AUG 2019.XLSX
+2019-08, KARNATAKA BANK          , Private  ,            4806579.0 ,            17926.046652        ,           1, AUG 2019.XLSX
+2019-08, KARUR VYSYA BANK        , Private  ,            5915354.0 ,            25422.833890890004  ,           1, AUG 2019.XLSX
+2019-08, KOTAK MAHINDRA BANK     , Private  ,            9339213.0 ,            36054.918575070005  ,           1, AUG 2019.XLSX
+2019-08, PUNJAB AND SIND BANK    , Public   ,            1514760.0 ,             6112.0146219200005 ,           1, AUG 2019.XLSX
+2019-08, PUNJAB NATIONAL BANK    , Public   ,           39141881.0 ,           162788.96141316002   ,           3, AUG 2019.XLSX
+2019-08, RBL BANK                , Private  ,             805510.0 ,             2785.34476812      ,           1, AUG 2019.XLSX
+2019-08, SOUTH INDIAN BANK       , Private  ,            3121060.0 ,            12706.913327000002  ,           1, AUG 2019.XLSX
+2019-08, STATE BANK OF INDIA     , Public   ,          376227248.0 ,          1076303.3537616802    ,           1, AUG 2019.XLSX
+2019-08, TAMILNAD MERCANTILE BANK, Private  ,            5384591.0 ,            22139.6895          ,           1, AUG 2019.XLSX
+2019-08, UCO BANK                , Public   ,            6315733.0 ,            24114.5             ,           1, AUG 2019.XLSX
+2019-08, UNION BANK OF INDIA     , Public   ,           49852085.0 ,           156636.77681791002   ,           3, AUG 2019.XLSX
+2019-08, YES BANK                , Private  ,            3260406.0 ,            14130.710458000001  ,           1, AUG 2019.XLSX
+2019-09, AXIS BANK               , Private  ,           26869973.0 ,           132511.96667909002   ,           1, SEP 2019.XLSX
+2019-09, BANDHAN BANK            , Private  ,            2250856.0 ,             8274.887181        ,           1, SEP 2019.XLSX
+2019-09, BANK OF BARODA          , Public   ,           40425078.0 ,           121187.30705         ,           1, SEP 2019.XLSX
+2019-09, BANK OF INDIA           , Public   ,           19068906.0 ,            66023.19119700001   ,           1, SEP 2019.XLSX
+2019-09, BANK OF MAHARASHTRA     , Public   ,            7604378.0 ,            26723.77945135      ,           1, SEP 2019.XLSX
+2019-09, CANARA BANK             , Public   ,           34500703.0 ,           152424.30732948      ,           2, SEP 2019.XLSX
+2019-09, CENTRAL BANK OF INDIA   , Public   ,           11893764.0 ,            46656.8455762       ,           1, SEP 2019.XLSX
+2019-09, CITY UNION BANK         , Private  ,            2440400.0 ,            10952.88838496      ,           1, SEP 2019.XLSX
+2019-09, CSB BANK                , Private  ,             741745.0 ,             2347.353465        ,           1, SEP 2019.XLSX
+2019-09, DCB BANK                , Private  ,             517350.0 ,             2526.579124        ,           1, SEP 2019.XLSX
+2019-09, DHANALAKSHMI BANK       , Private  ,             545931.0 ,             1892.0788499999999 ,           1, SEP 2019.XLSX
+2019-09, FEDERAL BANK            , Private  ,            8624821.0 ,            43254.909616560006  ,           1, SEP 2019.XLSX
+2019-09, HDFC BANK               , Private  ,           37802863.0 ,           189684.601465        ,           1, SEP 2019.XLSX
+2019-09, ICICI BANK              , Private  ,           32264017.0 ,           159876.46820300003   ,           1, SEP 2019.XLSX
+2019-09, IDBI BANK               , Private  ,            9066711.0 ,            39089.038605839996  ,           1, SEP 2019.XLSX
+2019-09, IDFC FIRST BANK         , Private  ,            2230056.0 ,             7801.711189420001  ,           1, SEP 2019.XLSX
+2019-09, INDIAN BANK             , Public   ,           35000570.0 ,            88018.7             ,           2, SEP 2019.XLSX
+2019-09, INDIAN OVERSEAS BANK    , Public   ,           13753541.0 ,            57221.2378          ,           1, SEP 2019.XLSX
+2019-09, INDUSIND BANK           , Private  ,            3859145.0 ,            16926.799520650005  ,           1, SEP 2019.XLSX
+2019-09, JAMMU AND KASHMIR BANK  , Private  ,            4552988.0 ,            24485.21646579      ,           1, SEP 2019.XLSX
+2019-09, KARNATAKA BANK          , Private  ,            4682893.0 ,            17268.410214        ,           1, SEP 2019.XLSX
+2019-09, KARUR VYSYA BANK        , Private  ,            5605098.0 ,            24079.5557173       ,           1, SEP 2019.XLSX
+2019-09, KOTAK MAHINDRA BANK     , Private  ,            9020362.0 ,            34488.30437281999   ,           1, SEP 2019.XLSX
+2019-09, PUNJAB AND SIND BANK    , Public   ,            1474592.0 ,             5924.206900460001  ,           1, SEP 2019.XLSX
+2019-09, PUNJAB NATIONAL BANK    , Public   ,           38859370.0 ,           161285.39949216      ,           3, SEP 2019.XLSX
+2019-09, RBL BANK                , Private  ,             765220.0 ,             2705.16999954      ,           1, SEP 2019.XLSX
+2019-09, SOUTH INDIAN BANK       , Private  ,            3094001.0 ,            12493.0141          ,           1, SEP 2019.XLSX
+2019-09, STATE BANK OF INDIA     , Public   ,          365578263.0 ,          1029705.4473217201    ,           1, SEP 2019.XLSX
+2019-09, TAMILNAD MERCANTILE BANK, Private  ,            4989448.0 ,            20508.6008          ,           1, SEP 2019.XLSX
+2019-09, UCO BANK                , Public   ,            6180515.0 ,            23689.906679000003  ,           1, SEP 2019.XLSX
+2019-09, UNION BANK OF INDIA     , Public   ,           43026342.0 ,           136904.43625078      ,           3, SEP 2019.XLSX
+2019-09, YES BANK                , Private  ,            3136556.0 ,            13565.589024        ,           1, SEP 2019.XLSX
+2019-10, AXIS BANK               , Private  ,           30149068.0 ,           154529.20245827      ,           1, OCT 2019.XLSX
+2019-10, BANDHAN BANK            , Private  ,            2340094.0 ,             8744.310401        ,           1, OCT 2019.XLSX
+2019-10, BANK OF BARODA          , Public   ,           45193087.0 ,           145285.183069        ,           1, OCT 2019.XLSX
+2019-10, BANK OF INDIA           , Public   ,           21009017.0 ,            77541.620095        ,           1, OCT 2019.XLSX
+2019-10, BANK OF MAHARASHTRA     , Public   ,            8380381.0 ,            32293.888874010005  ,           1, OCT 2019.XLSX
+2019-10, CANARA BANK             , Public   ,           36693962.0 ,           166436.52922717002   ,           2, OCT 2019.XLSX
+2019-10, CENTRAL BANK OF INDIA   , Public   ,           13023291.0 ,            54481.92602627      ,           1, OCT 2019.XLSX
+2019-10, CITY UNION BANK         , Private  ,            2657789.0 ,            12333.35796477      ,           1, OCT 2019.XLSX
+2019-10, CSB BANK                , Private  ,             813751.0 ,             2612.2806400000004 ,           1, OCT 2019.XLSX
+2019-10, DCB BANK                , Private  ,             564394.0 ,             2890.734792        ,           1, OCT 2019.XLSX
+2019-10, DHANALAKSHMI BANK       , Private  ,             551471.0 ,             1874.9202000000002 ,           1, OCT 2019.XLSX
+2019-10, FEDERAL BANK            , Private  ,            9160254.0 ,            45744.67139281001   ,           1, OCT 2019.XLSX
+2019-10, HDFC BANK               , Private  ,           42538847.0 ,           223497.946856        ,           1, OCT 2019.XLSX
+2019-10, ICICI BANK              , Private  ,           35503644.0 ,           185159.67080700002   ,           1, OCT 2019.XLSX
+2019-10, IDBI BANK               , Private  ,            9773249.0 ,            47016.45743         ,           1, OCT 2019.XLSX
+2019-10, IDFC FIRST BANK         , Private  ,            2625893.0 ,             9765.58138209      ,           1, OCT 2019.XLSX
+2019-10, INDIAN BANK             , Public   ,           37093831.0 ,            99963.90000000001   ,           2, OCT 2019.XLSX
+2019-10, INDIAN OVERSEAS BANK    , Public   ,           14970407.0 ,            64715.5172          ,           1, OCT 2019.XLSX
+2019-10, INDUSIND BANK           , Private  ,            4249671.0 ,            19406.093389340003  ,           1, OCT 2019.XLSX
+2019-10, JAMMU AND KASHMIR BANK  , Private  ,            5550924.0 ,            30489.776992900002  ,           1, OCT 2019.XLSX
+2019-10, KARNATAKA BANK          , Private  ,            4947259.0 ,            18827.084723000004  ,           1, OCT 2019.XLSX
+2019-10, KARUR VYSYA BANK        , Private  ,            5869978.0 ,            25965.53649688      ,           1, OCT 2019.XLSX
+2019-10, KOTAK MAHINDRA BANK     , Private  ,           10009295.0 ,            40841.16890148001   ,           1, OCT 2019.XLSX
+2019-10, PUNJAB AND SIND BANK    , Public   ,            1577171.0 ,             6662.37044411      ,           1, OCT 2019.XLSX
+2019-10, PUNJAB NATIONAL BANK    , Public   ,           42373188.0 ,           185781.9325115       ,           3, OCT 2019.XLSX
+2019-10, RBL BANK                , Private  ,             866094.0 ,             3243.41232897      ,           1, OCT 2019.XLSX
+2019-10, SOUTH INDIAN BANK       , Private  ,            3230905.0 ,            13052.313492000001  ,           1, OCT 2019.XLSX
+2019-10, STATE BANK OF INDIA     , Public   ,          384048289.0 ,          1155085.01949807      ,           1, OCT 2019.XLSX
+2019-10, TAMILNAD MERCANTILE BANK, Private  ,            5377316.0 ,            22839.7821          ,           1, OCT 2019.XLSX
+2019-10, UCO BANK                , Public   ,            6678917.0 ,            26989.566107        ,           1, OCT 2019.XLSX
+2019-10, UNION BANK OF INDIA     , Public   ,           52662749.0 ,           175828.62696686003   ,           3, OCT 2019.XLSX
+2019-10, YES BANK                , Private  ,            3558449.0 ,            16563.281143        ,           1, OCT 2019.XLSX
+2019-11, AXIS BANK               , Private  ,           27752989.0 ,           139458.59227629      ,           1, NOV 2019.XLSX
+2019-11, BANDHAN BANK            , Private  ,            1880576.0 ,             8560.025793        ,           1, NOV 2019.XLSX
+2019-11, BANK OF BARODA          , Public   ,           30185538.68,           120779.90712891589   ,           1, NOV 2019.XLSX
+2019-11, BANK OF INDIA           , Public   ,           19653212.0 ,            69589.61115900001   ,           1, NOV 2019.XLSX
+2019-11, BANK OF MAHARASHTRA     , Public   ,            7729844.0 ,            27828.522982000002  ,           1, NOV 2019.XLSX
+2019-11, CANARA BANK             , Public   ,           35874148.0 ,           160642.3958228       ,           2, NOV 2019.XLSX
+2019-11, CENTRAL BANK OF INDIA   , Public   ,           11967786.0 ,            48776.622894        ,           1, NOV 2019.XLSX
+2019-11, CITY UNION BANK         , Private  ,            2502584.0 ,            11171.270512930001  ,           1, NOV 2019.XLSX
+2019-11, CSB BANK                , Private  ,             497435.0 ,             1948.8310130000002 ,           1, NOV 2019.XLSX
+2019-11, DCB BANK                , Private  ,             440915.0 ,             2456.002308        ,           1, NOV 2019.XLSX
+2019-11, DHANALAKSHMI BANK       , Private  ,             547310.0 ,             1823.91282879      ,           1, NOV 2019.XLSX
+2019-11, FEDERAL BANK            , Private  ,            8522697.0 ,            38218.012828        ,           1, NOV 2019.XLSX
+2019-11, HDFC BANK               , Private  ,           40592129.0 ,           207848.73833127003   ,           1, NOV 2019.XLSX
+2019-11, ICICI BANK              , Private  ,           32845725.0 ,           167433.802376        ,           1, NOV 2019.XLSX
+2019-11, IDBI BANK               , Private  ,            8664517.0 ,            38769.092412        ,           1, NOV 2019.XLSX
+2019-11, IDFC FIRST BANK         , Private  ,            2588182.0 ,             8793.90360603      ,           1, NOV 2019.XLSX
+2019-11, INDIAN BANK             , Public   ,           31056178.0 ,            91173.6472976       ,           2, NOV 2019.XLSX
+2019-11, INDIAN OVERSEAS BANK    , Public   ,           13048892.0 ,            50156.3268          ,           1, NOV 2019.XLSX
+2019-11, INDUSIND BANK           , Private  ,            3967725.0 ,            17720.443756930003  ,           1, NOV 2019.XLSX
+2019-11, JAMMU AND KASHMIR BANK  , Private  ,            5455454.0 ,            28972.167513        ,           1, NOV 2019.XLSX
+2019-11, KARNATAKA BANK          , Private  ,            4789273.0 ,            18128.358988000004  ,           1, NOV 2019.XLSX
+2019-11, KARUR VYSYA BANK        , Private  ,            5636731.0 ,            24164.339294610003  ,           1, NOV 2019.XLSX
+2019-11, KOTAK MAHINDRA BANK     , Private  ,            9157620.0 ,            36357.744686000005  ,           1, NOV 2019.XLSX
+2019-11, PUNJAB AND SIND BANK    , Public   ,            1526078.0 ,             6433.772241170001  ,           1, NOV 2019.XLSX
+2019-11, PUNJAB NATIONAL BANK    , Public   ,           39174019.0 ,           169261.70362846      ,           3, NOV 2019.XLSX
+2019-11, RBL BANK                , Private  ,             792824.0 ,             2885.08327691      ,           1, NOV 2019.XLSX
+2019-11, SOUTH INDIAN BANK       , Private  ,            3258655.0 ,            12998.664900000002  ,           1, NOV 2019.XLSX
+2019-11, STATE BANK OF INDIA     , Public   ,          198440048.0 ,          1009325.94053021      ,           1, NOV 2019.XLSX
+2019-11, TAMILNAD MERCANTILE BANK, Private  ,            5159282.0 ,            21273.474932        ,           1, NOV 2019.XLSX
+2019-11, UCO BANK                , Public   ,            6331786.0 ,            24876.276396        ,           1, NOV 2019.XLSX
+2019-11, UNION BANK OF INDIA     , Public   ,           46127714.0 ,           162493.51305832      ,           3, NOV 2019.XLSX
+2019-11, YES BANK                , Private  ,            3211103.0 ,            13736.414606780001  ,           1, NOV 2019.XLSX
+2019-12, AXIS BANK               , Private  ,           28696103.0 ,           142326.18802363      ,           1, DEC 2019.XLSX
+2019-12, BANDHAN BANK            , Private  ,            1938548.0 ,             8700.593988        ,           1, DEC 2019.XLSX
+2019-12, BANK OF BARODA          , Public   ,           31981021.0 ,           131859.92531367      ,           1, DEC 2019.XLSX
+2019-12, BANK OF INDIA           , Public   ,           20932247.0 ,            72754.216096        ,           1, DEC 2019.XLSX
+2019-12, BANK OF MAHARASHTRA     , Public   ,            8288027.0 ,            29523.920369        ,           1, DEC 2019.XLSX
+2019-12, CANARA BANK             , Public   ,           36233310.0 ,           159520.42157332003   ,           2, DEC 2019.XLSX
+2019-12, CENTRAL BANK OF INDIA   , Public   ,           12593728.0 ,            50144.07423122      ,           1, DEC 2019.XLSX
+2019-12, CITY UNION BANK         , Private  ,            2570234.0 ,            11587.815233610001  ,           1, DEC 2019.XLSX
+2019-12, CSB BANK                , Private  ,             516731.0 ,             2039.0401450000002 ,           1, DEC 2019.XLSX
+2019-12, DCB BANK                , Private  ,             485073.0 ,             2676.097456        ,           1, DEC 2019.XLSX
+2019-12, DHANALAKSHMI BANK       , Private  ,             558555.0 ,             1867.04855845      ,           1, DEC 2019.XLSX
+2019-12, FEDERAL BANK            , Private  ,            8920251.0 ,            40361.057395        ,           1, DEC 2019.XLSX
+2019-12, HDFC BANK               , Private  ,           42301656.0 ,           214641.12320826      ,           1, DEC 2019.XLSX
+2019-12, ICICI BANK              , Private  ,           34663813.0 ,           178409.02439900002   ,           1, DEC 2019.XLSX
+2019-12, IDBI BANK               , Private  ,            8951638.0 ,            40286.397381        ,           1, DEC 2019.XLSX
+2019-12, IDFC FIRST BANK         , Private  ,            2450163.0 ,             7543.839558        ,           1, DEC 2019.XLSX
+2019-12, INDIAN BANK             , Public   ,           31934280.0 ,            93566.11551198002   ,           2, DEC 2019.XLSX
+2019-12, INDIAN OVERSEAS BANK    , Public   ,           13609158.0 ,            51984.9436          ,           1, DEC 2019.XLSX
+2019-12, INDUSIND BANK           , Private  ,            3800206.0 ,            18322.65255963      ,           1, DEC 2019.XLSX
+2019-12, JAMMU AND KASHMIR BANK  , Private  ,            6209313.0 ,            32146.816045000003  ,           1, DEC 2019.XLSX
+2019-12, KARNATAKA BANK          , Private  ,            4488211.0 ,            18683.97965         ,           1, DEC 2019.XLSX
+2019-12, KARUR VYSYA BANK        , Private  ,            5854648.0 ,            25658.34326809      ,           1, DEC 2019.XLSX
+2019-12, KOTAK MAHINDRA BANK     , Private  ,            9197826.0 ,            36371.306989130004  ,           1, DEC 2019.XLSX
+2019-12, PUNJAB AND SIND BANK    , Public   ,            1616492.0 ,             6639.326273600001  ,           1, DEC 2019.XLSX
+2019-12, PUNJAB NATIONAL BANK    , Public   ,           39755421.0 ,           168401.67622175      ,           3, DEC 2019.XLSX
+2019-12, RBL BANK                , Private  ,             819838.0 ,             3041.34471123      ,           1, DEC 2019.XLSX
+2019-12, SOUTH INDIAN BANK       , Private  ,            3405890.0 ,            13721.1326          ,           1, DEC 2019.XLSX
+2019-12, STATE BANK OF INDIA     , Public   ,          205695935.0 ,          1039488.99004535      ,           1, DEC 2019.XLSX
+2019-12, TAMILNAD MERCANTILE BANK, Private  ,            4998797.0 ,            20771.060370000003  ,           1, DEC 2019.XLSX
+2019-12, UCO BANK                , Public   ,            6520054.0 ,            25249.284362000002  ,           1, DEC 2019.XLSX
+2019-12, UNION BANK OF INDIA     , Public   ,           47576952.0 ,           168417.10197248      ,           3, DEC 2019.XLSX
+2019-12, YES BANK                , Private  ,            3312826.0 ,            13956.675270000002  ,           1, DEC 2019.XLSX
+2023-01, AXIS BANK               , Private  ,           20730852.0 ,           127513.89182275001   ,           1, JAN.XLSX
+2023-01, BANDHAN BANK            , Private  ,            2584931.0 ,            13316.386653000001  ,           1, JAN.XLSX
+2023-01, BANK OF BARODA          , Public   ,           26702683.0 ,           124798.526321        ,           1, JAN.XLSX
+2023-01, BANK OF INDIA           , Public   ,           17499410.0 ,            68313.616868        ,           1, JAN.XLSX
+2023-01, BANK OF MAHARASHTRA     , Public   ,            6396878.0 ,            26966.28848427      ,           1, JAN.XLSX
+2023-01, CANARA BANK             , Public   ,           33347105.0 ,           149646.726403        ,           1, JAN.XLSX
+2023-01, CENTRAL BANK OF INDIA   , Public   ,            8798451.0 ,            39090.354185000004  ,           1, JAN.XLSX
+2023-01, CITY UNION BANK         , Private  ,            2682169.0 ,            13737.16776         ,           1, JAN.XLSX
+2023-01, CSB BANK                , Private  ,             513844.0 ,             2396.4514          ,           1, JAN.XLSX
+2023-01, DCB BANK                , Private  ,             281689.0 ,             1563.916948        ,           1, JAN.XLSX
+2023-01, DHANALAKSHMI BANK       , Private  ,             482142.0 ,             2062.79839334      ,           1, JAN.XLSX
+2023-01, FEDERAL BANK            , Private  ,            9194584.0 ,            44634.147324000005  ,           1, JAN.XLSX
+2023-01, HDFC BANK               , Private  ,           40939446.0 ,           244580.73009         ,           1, JAN.XLSX
+2023-01, ICICI BANK              , Private  ,           21393532.0 ,           140080.611906        ,           1, JAN.XLSX
+2023-01, IDBI BANK               , Private  ,            6356308.0 ,            30827.893023        ,           1, JAN.XLSX
+2023-01, IDFC FIRST BANK         , Private  ,            3834658.0 ,            18890.594149        ,           1, JAN.XLSX
+2023-01, INDIAN BANK             , Public   ,           20180616.0 ,            93338.086409        ,           1, JAN.XLSX
+2023-01, INDIAN OVERSEAS BANK    , Public   ,           15223592.0 ,            62636.85159281      ,           1, JAN.XLSX
+2023-01, INDUSIND BANK           , Private  ,            5155183.0 ,            25422.980287000002  ,           1, JAN.XLSX
+2023-01, JAMMU AND KASHMIR BANK  , Private  ,            5507801.0 ,            27698.898124000003  ,           1, JAN.XLSX
+2023-01, KARNATAKA BANK          , Private  ,            4360525.0 ,            19411.367127        ,           1, JAN.XLSX
+2023-01, KARUR VYSYA BANK        , Private  ,            4842681.0 ,            22925.560572950002  ,           1, JAN.XLSX
+2023-01, KOTAK MAHINDRA BANK     , Private  ,           11700286.0 ,            53201.08889245001   ,           1, JAN.XLSX
+2023-01, NAINITAL BANK           , Private  ,              92367.0 ,              423.362202        ,           1, JAN.XLSX
+2023-01, PUNJAB AND SIND BANK    , Public   ,            1564920.0 ,             7176.403           ,           1, JAN.XLSX
+2023-01, PUNJAB NATIONAL BANK    , Public   ,           27020904.0 ,           131984.29118256998   ,           1, JAN.XLSX
+2023-01, RBL BANK                , Private  ,             640645.0 ,             3157.2723100000003 ,           1, JAN.XLSX
+2023-01, SOUTH INDIAN BANK       , Private  ,            3156602.0 ,            14254.095000000001  ,           1, JAN.XLSX
+2023-01, STATE BANK OF INDIA     , Public   ,          191631604.0 ,           924421.767551        ,           1, JAN.XLSX
+2023-01, TAMILNAD MERCANTILE BANK, Private  ,            4883615.0 ,            20451.7246          ,           1, JAN.XLSX
+2023-01, UCO BANK                , Public   ,            7031156.0 ,            31006.515572700002  ,           1, JAN.XLSX
+2023-01, UNION BANK OF INDIA     , Public   ,           48209940.0 ,           140472.90196862002   ,           1, JAN.XLSX
+2023-01, YES BANK                , Private  ,            2881116.0 ,            13365.4603          ,           1, JAN.XLSX
+2023-02, AXIS BANK               , Private  ,           19361301.0 ,           120874.01260097      ,           1, FEB.XLSX
+2023-02, BANDHAN BANK            , Private  ,            2424377.0 ,            12742.861928        ,           1, FEB.XLSX
+2023-02, BANK OF BARODA          , Public   ,           25280589.0 ,           120196.65331200001   ,           1, FEB.XLSX
+2023-02, BANK OF INDIA           , Public   ,           16614773.0 ,            66267.389178        ,           1, FEB.XLSX
+2023-02, BANK OF MAHARASHTRA     , Public   ,            5932104.0 ,            25729.05217876      ,           1, FEB.XLSX
+2023-02, CANARA BANK             , Public   ,           31913729.0 ,           145135.9065813       ,           1, FEB.XLSX
+2023-02, CENTRAL BANK OF INDIA   , Public   ,            8468892.0 ,            38408.258904        ,           1, FEB.XLSX
+2023-02, CITY UNION BANK         , Private  ,            2538994.0 ,            13530.126286350001  ,           1, FEB.XLSX
+2023-02, CSB BANK                , Private  ,             485803.0 ,             2299.175           ,           1, FEB.XLSX
+2023-02, DCB BANK                , Private  ,             263776.0 ,             1476.87579436      ,           1, FEB.XLSX
+2023-02, DHANALAKSHMI BANK       , Private  ,             458281.0 ,             1985.2798547400002 ,           1, FEB.XLSX
+2023-02, FEDERAL BANK            , Private  ,            8598528.0 ,            41855.934933        ,           1, FEB.XLSX
+2023-02, HDFC BANK               , Private  ,           39009051.0 ,           237023.49765055      ,           1, FEB.XLSX
+2023-02, ICICI BANK              , Private  ,           20021229.0 ,           133737.020749        ,           1, FEB.XLSX
+2023-02, IDBI BANK               , Private  ,            5987381.0 ,            29715.97177933      ,           1, FEB.XLSX
+2023-02, IDFC FIRST BANK         , Private  ,            3795572.0 ,            18941.001894        ,           1, FEB.XLSX
+2023-02, INDIAN BANK             , Public   ,           19320244.0 ,            90745.89928911      ,           1, FEB.XLSX
+2023-02, INDIAN OVERSEAS BANK    , Public   ,           14343417.0 ,            59915.530670709995  ,           1, FEB.XLSX
+2023-02, INDUSIND BANK           , Private  ,            4650115.0 ,            24639.1755398741    ,           1, FEB.XLSX
+2023-02, JAMMU AND KASHMIR BANK  , Private  ,            5656950.0 ,            28308.198186999998  ,           1, FEB.XLSX
+2023-02, KARNATAKA BANK          , Private  ,            4019711.0 ,            18294.561896000003  ,           1, FEB.XLSX
+2023-02, KARUR VYSYA BANK        , Private  ,            4547323.0 ,            21811.500783580002  ,           1, FEB.XLSX
+2023-02, KOTAK MAHINDRA BANK     , Private  ,           10789985.0 ,            49993.91683251      ,           1, FEB.XLSX
+2023-02, NAINITAL BANK           , Private  ,              89346.0 ,              416.04711         ,           1, FEB.XLSX
+2023-02, PUNJAB AND SIND BANK    , Public   ,            1499413.0 ,             7013.1094          ,           1, FEB.XLSX
+2023-02, PUNJAB NATIONAL BANK    , Public   ,           26664323.0 ,           133114.13674965      ,           1, FEB.XLSX
+2023-02, RBL BANK                , Private  ,             597799.0 ,             2981.9740699999998 ,           1, FEB.XLSX
+2023-02, SOUTH INDIAN BANK       , Private  ,            2981508.0 ,            13492.75664653      ,           1, FEB.XLSX
+2023-02, STATE BANK OF INDIA     , Public   ,          183729048.0 ,           898529.4640970019    ,           1, FEB.XLSX
+2023-02, TAMILNAD MERCANTILE BANK, Private  ,            4758191.0 ,            20209.7906          ,           1, FEB.XLSX
+2023-02, UCO BANK                , Public   ,            6776551.0 ,            30547.531472        ,           1, FEB.XLSX
+2023-02, UNION BANK OF INDIA     , Public   ,           44685265.0 ,           134862.05341071      ,           1, FEB.XLSX
+2023-02, YES BANK                , Private  ,            2770767.0 ,            12865.62485         ,           1, FEB.XLSX
+2023-03, AXIS BANK               , Private  ,           22400676.0 ,           139863.35760695      ,           1, MAR.XLSX
+2023-03, BANDHAN BANK            , Private  ,            2591433.0 ,            13832.477147        ,           1, MAR.XLSX
+2023-03, BANK OF BARODA          , Public   ,           27495790.0 ,           131624.66854400001   ,           1, MAR.XLSX
+2023-03, BANK OF INDIA           , Public   ,           17975573.0 ,            72071.281603        ,           1, MAR.XLSX
+2023-03, BANK OF MAHARASHTRA     , Public   ,            6498001.0 ,            28156.430874010002  ,           1, MAR.XLSX
+2023-03, CANARA BANK             , Public   ,           35009127.0 ,           160685.23983720003   ,           1, MAR.XLSX
+2023-03, CENTRAL BANK OF INDIA   , Public   ,            9399879.0 ,            42535.145166        ,           1, MAR.XLSX
+2023-03, CITY UNION BANK         , Private  ,            2776882.0 ,            14890.09025364      ,           1, MAR.XLSX
+2023-03, CSB BANK                , Private  ,             533844.0 ,             2555.3411499999997 ,           1, MAR.XLSX
+2023-03, DCB BANK                , Private  ,             292523.0 ,             1634.1198707300002 ,           1, MAR.XLSX
+2023-03, DHANALAKSHMI BANK       , Private  ,             501516.0 ,             2200.7689646999997 ,           1, MAR.XLSX
+2023-03, FEDERAL BANK            , Private  ,            9344478.0 ,            46366.852859        ,           1, MAR.XLSX
+2023-03, HDFC BANK               , Private  ,           42482104.0 ,           259747.739989        ,           1, MAR.XLSX
+2023-03, ICICI BANK              , Private  ,           21489547.0 ,           146214.374804        ,           1, MAR.XLSX
+2023-03, IDBI BANK               , Private  ,            6494220.0 ,            32303.54928415      ,           1, MAR.XLSX
+2023-03, IDFC FIRST BANK         , Private  ,            3966559.0 ,            20211.183844        ,           1, MAR.XLSX
+2023-03, INDIAN BANK             , Public   ,           21160256.0 ,            99704.20400241      ,           1, MAR.XLSX
+2023-03, INDIAN OVERSEAS BANK    , Public   ,           15613668.0 ,            65361.14087082      ,           1, MAR.XLSX
+2023-03, INDUSIND BANK           , Private  ,            4824781.0 ,            27433.221631994104  ,           1, MAR.XLSX
+2023-03, JAMMU AND KASHMIR BANK  , Private  ,            6273966.0 ,            31130.408602000003  ,           1, MAR.XLSX
+2023-03, KARNATAKA BANK          , Private  ,            4444239.0 ,            20469.199800000002  ,           1, MAR.XLSX
+2023-03, KARUR VYSYA BANK        , Private  ,            4959838.0 ,            23897.228314840002  ,           1, MAR.XLSX
+2023-03, KOTAK MAHINDRA BANK     , Private  ,           11995179.0 ,            55378.13291161      ,           1, MAR.XLSX
+2023-03, NAINITAL BANK           , Private  ,              95398.0 ,              438.577164        ,           1, MAR.XLSX
+2023-03, PUNJAB AND SIND BANK    , Public   ,            1663163.0 ,             7642.6080999999995 ,           1, MAR.XLSX
+2023-03, PUNJAB NATIONAL BANK    , Public   ,           29588266.0 ,           146888.44668281      ,           1, MAR.XLSX
+2023-03, RBL BANK                , Private  ,             655056.0 ,             3311.05919         ,           1, MAR.XLSX
+2023-03, SOUTH INDIAN BANK       , Private  ,            3251777.0 ,            14947.376120119998  ,           1, MAR.XLSX
+2023-03, STATE BANK OF INDIA     , Public   ,          194487345.0 ,           951444.9681940001    ,           1, MAR.XLSX
+2023-03, TAMILNAD MERCANTILE BANK, Private  ,            5351858.0 ,            22555.4495          ,           1, MAR.XLSX
+2023-03, UCO BANK                , Public   ,            7357149.0 ,            33123.4456956       ,           1, MAR.XLSX
+2023-03, UNION BANK OF INDIA     , Public   ,           48455295.0 ,           147864.708519        ,           1, MAR.XLSX
+2023-03, YES BANK                , Private  ,            3073617.0 ,            14234.023034        ,           1, MAR.XLSX
+2023-04, AXIS BANK               , Private  ,           22004298.0 ,           138386.49013917      ,           1, APR.XLSX
+2023-04, BANDHAN BANK            , Private  ,            2552440.0 ,            13714.5186          ,           1, APR.XLSX
+2023-04, BANK OF BARODA          , Public   ,           26198522.0 ,           128162.67213500002   ,           1, APR.XLSX
+2023-04, BANK OF INDIA           , Public   ,           17402573.0 ,            71390.237461        ,           1, APR.XLSX
+2023-04, BANK OF MAHARASHTRA     , Public   ,            6255286.0 ,            27671.60775589      ,           1, APR.XLSX
+2023-04, CANARA BANK             , Public   ,           33738373.0 ,           158016.698301        ,           1, APR.XLSX
+2023-04, CENTRAL BANK OF INDIA   , Public   ,            9221986.0 ,            42947.3991385       ,           1, APR.XLSX
+2023-04, CITY UNION BANK         , Private  ,            2655856.0 ,            14213.599852619998  ,           1, APR.XLSX
+2023-04, CSB BANK                , Private  ,             497982.0 ,             2435.39115         ,           1, APR.XLSX
+2023-04, DCB BANK                , Private  ,             284857.0 ,             1590.335038        ,           1, APR.XLSX
+2023-04, DHANALAKSHMI BANK       , Private  ,             473532.0 ,             2151.1853034100004 ,           1, APR.XLSX
+2023-04, FEDERAL BANK            , Private  ,            8798953.0 ,            44735.195309        ,           1, APR.XLSX
+2023-04, HDFC BANK               , Private  ,           41960532.0 ,           258557.98288999998   ,           1, APR.XLSX
+2023-04, ICICI BANK              , Private  ,           21084520.0 ,           144254.16900999998   ,           1, APR.XLSX
+2023-04, IDBI BANK               , Private  ,            6230985.0 ,            31333.177598529997  ,           1, APR.XLSX
+2023-04, IDFC FIRST BANK         , Private  ,            3944612.0 ,            20203.456568999998  ,           1, APR.XLSX
+2023-04, INDIAN BANK             , Public   ,           20639767.0 ,            98062.57138042      ,           1, APR.XLSX
+2023-04, INDIAN OVERSEAS BANK    , Public   ,           11606166.0 ,            49996.53441454      ,           1, APR.XLSX
+2023-04, INDUSIND BANK           , Private  ,            4663241.0 ,            25831.977867684098  ,           1, APR.XLSX
+2023-04, JAMMU AND KASHMIR BANK  , Private  ,            6232539.0 ,            33517.340615        ,           1, APR.XLSX
+2023-04, KARNATAKA BANK          , Private  ,            4156957.0 ,            19486.147413        ,           1, APR.XLSX
+2023-04, KARUR VYSYA BANK        , Private  ,            4732991.0 ,            23009.72890492      ,           1, APR.XLSX
+2023-04, KOTAK MAHINDRA BANK     , Private  ,           11802588.0 ,            54889.69795761001   ,           1, APR.XLSX
+2023-04, NAINITAL BANK           , Private  ,              91731.0 ,              434.87861200000003,           1, APR.XLSX
+2023-04, PUNJAB AND SIND BANK    , Public   ,            1528262.0 ,             7039.4879          ,           1, APR.XLSX
+2023-04, PUNJAB NATIONAL BANK    , Public   ,           25969552.0 ,           131901.19268781002   ,           1, APR.XLSX
+2023-04, RBL BANK                , Private  ,             642765.0 ,             3271.128305        ,           1, APR.XLSX
+2023-04, SOUTH INDIAN BANK       , Private  ,            3051490.0 ,            14383.19309766      ,           1, APR.XLSX
+2023-04, STATE BANK OF INDIA     , Public   ,          192280626.0 ,           973679.8069900001    ,           1, APR.XLSX
+2023-04, TAMILNAD MERCANTILE BANK, Private  ,            5321344.0 ,            22831.7017          ,           1, APR.XLSX
+2023-04, UCO BANK                , Public   ,            7073980.0 ,            32386.68586385      ,           1, APR.XLSX
+2023-04, UNION BANK OF INDIA     , Public   ,           46358359.0 ,           144513.20358899998   ,           1, APR.XLSX
+2023-04, YES BANK                , Private  ,            3078077.0 ,            14136.080908        ,           1, APR.XLSX
+2023-05, AXIS BANK               , Private  ,           20972026.0 ,           131191.48578125      ,           1, MAY.XLSX
+2023-05, BANDHAN BANK            , Private  ,            2537482.0 ,            13279.930679        ,           1, MAY.XLSX
+2023-05, BANK OF BARODA          , Public   ,           26553252.0 ,           128611.99522900001   ,           1, MAY.XLSX
+2023-05, BANK OF INDIA           , Public   ,           17396453.0 ,            70281.546302        ,           1, MAY.XLSX
+2023-05, BANK OF MAHARASHTRA     , Public   ,            6341201.0 ,            28014.43377997      ,           1, MAY.XLSX
+2023-05, CANARA BANK             , Public   ,           33561373.0 ,           156120.349956        ,           1, MAY.XLSX
+2023-05, CENTRAL BANK OF INDIA   , Public   ,            9271900.0 ,            42779.442844        ,           1, MAY.XLSX
+2023-05, CITY UNION BANK         , Private  ,            2750592.0 ,            14755.217422250002  ,           1, MAY.XLSX
+2023-05, CSB BANK                , Private  ,             496768.0 ,             2425.2555          ,           1, MAY.XLSX
+2023-05, DCB BANK                , Private  ,             283033.0 ,             1532.67902746      ,           1, MAY.XLSX
+2023-05, DHANALAKSHMI BANK       , Private  ,             479888.0 ,             2137.00428796      ,           1, MAY.XLSX
+2023-05, FEDERAL BANK            , Private  ,            8969814.0 ,            45119.724763        ,           1, MAY.XLSX
+2023-05, HDFC BANK               , Private  ,           41601269.0 ,           255405.078092        ,           1, MAY.XLSX
+2023-05, ICICI BANK              , Private  ,           20681413.0 ,           141430.664325        ,           1, MAY.XLSX
+2023-05, IDBI BANK               , Private  ,            6222027.0 ,            31215.380976130004  ,           1, MAY.XLSX
+2023-05, IDFC FIRST BANK         , Private  ,            3944181.0 ,            20054.85651         ,           1, MAY.XLSX
+2023-05, INDIAN BANK             , Public   ,           21092882.0 ,            99287.69344083001   ,           1, MAY.XLSX
+2023-05, INDIAN OVERSEAS BANK    , Public   ,           11708075.0 ,            49602.050333440005  ,           1, MAY.XLSX
+2023-05, INDUSIND BANK           , Private  ,            4687858.0 ,            25676.63917991222   ,           1, MAY.XLSX
+2023-05, JAMMU AND KASHMIR BANK  , Private  ,            6082823.0 ,            31126.423043000003  ,           1, MAY.XLSX
+2023-05, KARNATAKA BANK          , Private  ,            4085159.0 ,            19199.846960000003  ,           1, MAY.XLSX
+2023-05, KARUR VYSYA BANK        , Private  ,            4905041.0 ,            23855.98292001      ,           1, MAY.XLSX
+2023-05, KOTAK MAHINDRA BANK     , Private  ,           12059994.0 ,            54943.39444846999   ,           1, MAY.XLSX
+2023-05, NAINITAL BANK           , Private  ,              91452.0 ,              430.037111        ,           1, MAY.XLSX
+2023-05, PUNJAB AND SIND BANK    , Public   ,            1624489.0 ,             7534.4518          ,           1, MAY.XLSX
+2023-05, PUNJAB NATIONAL BANK    , Public   ,           27063559.0 ,           136098.59174404      ,           1, MAY.XLSX
+2023-05, RBL BANK                , Private  ,             648447.0 ,             3271.489336        ,           1, MAY.XLSX
+2023-05, SOUTH INDIAN BANK       , Private  ,            3147310.0 ,            14699.23473936      ,           1, MAY.XLSX
+2023-05, STATE BANK OF INDIA     , Public   ,          188115205.0 ,           949424.789356        ,           1, MAY.XLSX
+2023-05, TAMILNAD MERCANTILE BANK, Private  ,            5423413.0 ,            23072.7494          ,           1, MAY.XLSX
+2023-05, UCO BANK                , Public   ,            7051003.0 ,            31883.368081239998  ,           1, MAY.XLSX
+2023-05, UNION BANK OF INDIA     , Public   ,           46943044.0 ,           144859.95484400002   ,           1, MAY.XLSX
+2023-05, YES BANK                , Private  ,            2740310.0 ,            12175.973188        ,           1, MAY.XLSX
+2023-06, AXIS BANK               , Private  ,           20780925.0 ,           130083.93432202      ,           1, JUN.XLSX
+2023-06, BANDHAN BANK            , Private  ,            2422492.0 ,            12861.20292         ,           1, JUN.XLSX
+2023-06, BANK OF BARODA          , Public   ,           25602799.0 ,           124247.042431        ,           1, JUN.XLSX
+2023-06, BANK OF INDIA           , Public   ,           16892233.0 ,            68465.835577        ,           1, JUN.XLSX
+2023-06, BANK OF MAHARASHTRA     , Public   ,            6095597.0 ,            26914.03188749      ,           1, JUN.XLSX
+2023-06, CANARA BANK             , Public   ,           33270843.0 ,           153662.608503        ,           1, JUN.XLSX
+2023-06, CENTRAL BANK OF INDIA   , Public   ,            8907862.0 ,            40882.536174        ,           1, JUN.XLSX
+2023-06, CITY UNION BANK         , Private  ,            2695155.0 ,            14565.586297180002  ,           1, JUN.XLSX
+2023-06, CSB BANK                , Private  ,             488920.0 ,             2352.503           ,           1, JUN.XLSX
+2023-06, DCB BANK                , Private  ,             283453.0 ,             1521.95709822      ,           1, JUN.XLSX
+2023-06, DHANALAKSHMI BANK       , Private  ,             469557.0 ,             2059.58631404      ,           1, JUN.XLSX
+2023-06, FEDERAL BANK            , Private  ,            8722982.0 ,            43548.823519000005  ,           1, JUN.XLSX
+2023-06, HDFC BANK               , Private  ,           40293124.0 ,           247754.79835218002   ,           1, JUN.XLSX
+2023-06, ICICI BANK              , Private  ,           19997780.0 ,           137241.14352500002   ,           1, JUN.XLSX
+2023-06, IDBI BANK               , Private  ,            6045028.0 ,            30387.256902430003  ,           1, JUN.XLSX
+2023-06, IDFC FIRST BANK         , Private  ,            3940519.0 ,            20230.544515        ,           1, JUN.XLSX
+2023-06, INDIAN BANK             , Public   ,           20901227.0 ,            98607.92745282      ,           1, JUN.XLSX
+2023-06, INDIAN OVERSEAS BANK    , Public   ,           11576143.0 ,            49318.21576688001   ,           1, JUN.XLSX
+2023-06, INDUSIND BANK           , Private  ,            4620881.0 ,            26186.9634059       ,           1, JUN.XLSX
+2023-06, JAMMU AND KASHMIR BANK  , Private  ,            6421574.0 ,            34456.556408000004  ,           1, JUN.XLSX
+2023-06, KARNATAKA BANK          , Private  ,            4094860.0 ,            19075.88107         ,           1, JUN.XLSX
+2023-06, KARUR VYSYA BANK        , Private  ,            4788237.0 ,            23334.650137220004  ,           1, JUN.XLSX
+2023-06, KOTAK MAHINDRA BANK     , Private  ,           12099616.0 ,            55395.850778600005  ,           1, JUN.XLSX
+2023-06, NAINITAL BANK           , Private  ,              90180.0 ,              423.546931        ,           1, JUN.XLSX
+2023-06, PUNJAB AND SIND BANK    , Public   ,            1574069.0 ,             7299.487099999999  ,           1, JUN.XLSX
+2023-06, PUNJAB NATIONAL BANK    , Public   ,           27131349.0 ,           135576.18957047001   ,           1, JUN.XLSX
+2023-06, RBL BANK                , Private  ,             630016.0 ,             3172.981259        ,           1, JUN.XLSX
+2023-06, SOUTH INDIAN BANK       , Private  ,            3060491.0 ,            14144.63857932      ,           1, JUN.XLSX
+2023-06, STATE BANK OF INDIA     , Public   ,          183092005.0 ,           927321.498634        ,           1, JUN.XLSX
+2023-06, TAMILNAD MERCANTILE BANK, Private  ,            5294099.0 ,            22548.6453          ,           1, JUN.XLSX
+2023-06, UCO BANK                , Public   ,            6743905.0 ,            30498.83399613      ,           1, JUN.XLSX
+2023-06, UNION BANK OF INDIA     , Public   ,           46037116.0 ,           141889.175942        ,           1, JUN.XLSX
+2023-06, YES BANK                , Private  ,            2862449.0 ,            13341.969463        ,           1, JUN.XLSX
+2023-07, AXIS BANK               , Private  ,           19804086.0 ,           121833.552864        ,           1, JUL.XLSX
+2023-07, BANDHAN BANK            , Private  ,            2491362.0 ,            13168.210337        ,           1, JUL.XLSX
+2023-07, BANK OF BARODA          , Public   ,           25647197.0 ,           120381.811028        ,           1, JUL.XLSX
+2023-07, BANK OF INDIA           , Public   ,           16866377.0 ,            66847.676282        ,           1, JUL.XLSX
+2023-07, BANK OF MAHARASHTRA     , Public   ,            6077825.0 ,            26243.462202810002  ,           1, JUL.XLSX
+2023-07, CANARA BANK             , Public   ,           32051326.0 ,           144789.866407        ,           1, JUL.XLSX
+2023-07, CENTRAL BANK OF INDIA   , Public   ,            8909303.0 ,            39731.86113569001   ,           1, JUL.XLSX
+2023-07, CITY UNION BANK         , Private  ,            2759314.0 ,            14703.17774361      ,           1, JUL.XLSX
+2023-07, CSB BANK                , Private  ,             489087.0 ,             2315.5489          ,           1, JUL.XLSX
+2023-07, DCB BANK                , Private  ,             274346.0 ,             1390.73686355      ,           1, JUL.XLSX
+2023-07, DHANALAKSHMI BANK       , Private  ,             476284.0 ,             2045.5087273200002 ,           1, JUL.XLSX
+2023-07, FEDERAL BANK            , Private  ,            8677657.0 ,            42613.510528        ,           1, JUL.XLSX
+2023-07, HDFC BANK               , Private  ,           40108580.0 ,           242140.17302458003   ,           1, JUL.XLSX
+2023-07, ICICI BANK              , Private  ,           19622565.0 ,           132705.282114        ,           1, JUL.XLSX
+2023-07, IDBI BANK               , Private  ,            5939110.0 ,            28988.874178970003  ,           1, JUL.XLSX
+2023-07, IDFC FIRST BANK         , Private  ,            3943804.0 ,            19704.687954        ,           1, JUL.XLSX
+2023-07, INDIAN BANK             , Public   ,           21331326.0 ,            98191.57040518001   ,           1, JUL.XLSX
+2023-07, INDIAN OVERSEAS BANK    , Public   ,           11838390.0 ,            49380.90341023001   ,           1, JUL.XLSX
+2023-07, INDUSIND BANK           , Private  ,            4565948.0 ,            25315.9739747064    ,           1, JUL.XLSX
+2023-07, JAMMU AND KASHMIR BANK  , Private  ,            5740589.0 ,            28502.614543000003  ,           1, JUL.XLSX
+2023-07, KARNATAKA BANK          , Private  ,            4112770.0 ,            18629.871219        ,           1, JUL.XLSX
+2023-07, KARUR VYSYA BANK        , Private  ,            4851663.0 ,            23185.481789530004  ,           1, JUL.XLSX
+2023-07, KOTAK MAHINDRA BANK     , Private  ,           12020836.0 ,            52914.79704381002   ,           1, JUL.XLSX
+2023-07, NAINITAL BANK           , Private  ,              89103.0 ,              406.041343        ,           1, JUL.XLSX
+2023-07, PUNJAB AND SIND BANK    , Public   ,            1576741.0 ,             7134.6956          ,           1, JUL.XLSX
+2023-07, PUNJAB NATIONAL BANK    , Public   ,           26919031.0 ,           131097.19921656      ,           1, JUL.XLSX
+2023-07, RBL BANK                , Private  ,             626865.0 ,             3078.047116        ,           1, JUL.XLSX
+2023-07, SOUTH INDIAN BANK       , Private  ,            3041424.0 ,            13825.98137211      ,           1, JUL.XLSX
+2023-07, STATE BANK OF INDIA     , Public   ,          186025983.0 ,           924991.260395        ,           1, JUL.XLSX
+2023-07, TAMILNAD MERCANTILE BANK, Private  ,            5271919.0 ,            22226.4643          ,           1, JUL.XLSX
+2023-07, UCO BANK                , Public   ,            6840869.0 ,            30200.791942699998  ,           1, JUL.XLSX
+2023-07, UNION BANK OF INDIA     , Public   ,           47315825.0 ,           151361.220214        ,           1, JUL.XLSX
+2023-07, YES BANK                , Private  ,            2820725.0 ,            12768.386709        ,           1, JUL.XLSX
+2023-08, AXIS BANK               , Private  ,           20429901.0 ,           124352.37977285      ,           1, AUG.XLSX
+2023-08, BANDHAN BANK            , Private  ,            2447652.0 ,            12701.189820000001  ,           1, AUG.XLSX
+2023-08, BANK OF BARODA          , Public   ,           26858062.0 ,           124429.974551        ,           1, AUG.XLSX
+2023-08, BANK OF INDIA           , Public   ,           17522676.0 ,            68496.359947        ,           1, AUG.XLSX
+2023-08, BANK OF MAHARASHTRA     , Public   ,            6305613.0 ,            26788.01605046      ,           1, AUG.XLSX
+2023-08, CANARA BANK             , Public   ,           34576990.0 ,           156576.119821        ,           1, AUG.XLSX
+2023-08, CENTRAL BANK OF INDIA   , Public   ,            9140646.0 ,            40349.805712        ,           1, AUG.XLSX
+2023-08, CITY UNION BANK         , Private  ,            2775812.0 ,            14812.999558000001  ,           1, AUG.XLSX
+2023-08, CSB BANK                , Private  ,             505970.0 ,             2444.498           ,           1, AUG.XLSX
+2023-08, DCB BANK                , Private  ,             299744.0 ,             1459.816879        ,           1, AUG.XLSX
+2023-08, DHANALAKSHMI BANK       , Private  ,             502068.0 ,             2226.5396480900004 ,           1, AUG.XLSX
+2023-08, FEDERAL BANK            , Private  ,            9028012.0 ,            45029.342694880004  ,           1, AUG.XLSX
+2023-08, HDFC BANK               , Private  ,           41870046.0 ,           251455.61214573      ,           1, AUG.XLSX
+2023-08, ICICI BANK              , Private  ,           20284252.0 ,           136084.715094        ,           1, AUG.XLSX
+2023-08, IDBI BANK               , Private  ,            6134138.0 ,            29810.23125627      ,           1, AUG.XLSX
+2023-08, IDFC FIRST BANK         , Private  ,            4009649.0 ,            19710.011109000003  ,           1, AUG.XLSX
+2023-08, INDIAN BANK             , Public   ,           21574349.0 ,            99168.74238613      ,           1, AUG.XLSX
+2023-08, INDIAN OVERSEAS BANK    , Public   ,           12008457.0 ,            50151.38040835      ,           1, AUG.XLSX
+2023-08, INDUSIND BANK           , Private  ,            4802932.0 ,            26436.3869040364    ,           1, AUG.XLSX
+2023-08, JAMMU AND KASHMIR BANK  , Private  ,            6016985.0 ,            30159.461532        ,           1, AUG.XLSX
+2023-08, KARNATAKA BANK          , Private  ,            4213163.0 ,            18973.667662        ,           1, AUG.XLSX
+2023-08, KARUR VYSYA BANK        , Private  ,            4865424.0 ,            23271.716714930004  ,           1, AUG.XLSX
+2023-08, KOTAK MAHINDRA BANK     , Private  ,           12866541.0 ,            55436.04136642999   ,           1, AUG.XLSX
+2023-08, NAINITAL BANK           , Private  ,              95561.0 ,              426.28878499999996,           1, AUG.XLSX
+2023-08, PUNJAB AND SIND BANK    , Public   ,            1674982.0 ,             7498.099           ,           1, AUG.XLSX
+2023-08, PUNJAB NATIONAL BANK    , Public   ,           28259311.0 ,           135829.42368241      ,           1, AUG.XLSX
+2023-08, RBL BANK                , Private  ,             671157.0 ,             3221.733274        ,           1, AUG.XLSX
+2023-08, SOUTH INDIAN BANK       , Private  ,            3173526.0 ,            14695.53288873      ,           1, AUG.XLSX
+2023-08, STATE BANK OF INDIA     , Public   ,          186535150.0 ,           919507.2449018001    ,           1, AUG.XLSX
+2023-08, TAMILNAD MERCANTILE BANK, Private  ,            5113099.0 ,            21593.301600000003  ,           1, AUG.XLSX
+2023-08, UCO BANK                , Public   ,            7069093.0 ,            30924.91450176      ,           1, AUG.XLSX
+2023-08, UNION BANK OF INDIA     , Public   ,           46883310.0 ,           139946.069033        ,           1, AUG.XLSX
+2023-08, YES BANK                , Private  ,            2964077.0 ,            13322.80619         ,           1, AUG.XLSX
+2023-09, AXIS BANK               , Private  ,           19172823.0 ,           118757.73919399001   ,           1, SEP.XLSX
+2023-09, BANDHAN BANK            , Private  ,            2361170.0 ,            12561.275303        ,           1, SEP.XLSX
+2023-09, BANK OF BARODA          , Public   ,           24812918.0 ,           116494.714722        ,           1, SEP.XLSX
+2023-09, BANK OF INDIA           , Public   ,           16368316.0 ,            64977.359943999996  ,           1, SEP.XLSX
+2023-09, BANK OF MAHARASHTRA     , Public   ,            5891546.0 ,            25344.23723111      ,           1, SEP.XLSX
+2023-09, CANARA BANK             , Public   ,           33037721.0 ,           151889.633762        ,           1, SEP.XLSX
+2023-09, CENTRAL BANK OF INDIA   , Public   ,            8769221.0 ,            39298.944182        ,           1, SEP.XLSX
+2023-09, CITY UNION BANK         , Private  ,            2668264.0 ,            14281.38138425      ,           1, SEP.XLSX
+2023-09, CSB BANK                , Private  ,             461757.0 ,             2235.6067000000003 ,           1, SEP.XLSX
+2023-09, DCB BANK                , Private  ,             299507.0 ,             1391.676818        ,           1, SEP.XLSX
+2023-09, DHANALAKSHMI BANK       , Private  ,             446747.0 ,             1958.84100507      ,           1, SEP.XLSX
+2023-09, FEDERAL BANK            , Private  ,            8272204.0 ,            41033.329784        ,           1, SEP.XLSX
+2023-09, HDFC BANK               , Private  ,           39681940.0 ,           241666.186789        ,           1, SEP.XLSX
+2023-09, ICICI BANK              , Private  ,           18893578.0 ,           128940.52792800001   ,           1, SEP.XLSX
+2023-09, IDBI BANK               , Private  ,            5708392.0 ,            27999.86978275      ,           1, SEP.XLSX
+2023-09, IDFC FIRST BANK         , Private  ,            3945222.0 ,            19431.995954        ,           1, SEP.XLSX
+2023-09, INDIAN BANK             , Public   ,           21200385.0 ,            96932.51244219001   ,           1, SEP.XLSX
+2023-09, INDIAN OVERSEAS BANK    , Public   ,           11685874.0 ,            48727.943849760006  ,           1, SEP.XLSX
+2023-09, INDUSIND BANK           , Private  ,            4642123.0 ,            26674.511633516402  ,           1, SEP.XLSX
+2023-09, JAMMU AND KASHMIR BANK  , Private  ,            5737810.0 ,            29538.221308        ,           1, SEP.XLSX
+2023-09, KARNATAKA BANK          , Private  ,            3987228.0 ,            18200.473926        ,           1, SEP.XLSX
+2023-09, KARUR VYSYA BANK        , Private  ,            4190774.0 ,            20161.00707504      ,           1, SEP.XLSX
+2023-09, KOTAK MAHINDRA BANK     , Private  ,           12418511.0 ,            53543.30055056999   ,           1, SEP.XLSX
+2023-09, NAINITAL BANK           , Private  ,              84485.0 ,              383.201292        ,           1, SEP.XLSX
+2023-09, PUNJAB AND SIND BANK    , Public   ,            1574869.0 ,             7170.5024          ,           1, SEP.XLSX
+2023-09, PUNJAB NATIONAL BANK    , Public   ,           26539256.0 ,           129606.78136375999   ,           1, SEP.XLSX
+2023-09, RBL BANK                , Private  ,             639828.0 ,             3097.54289         ,           1, SEP.XLSX
+2023-09, SOUTH INDIAN BANK       , Private  ,            2909422.0 ,            13314.01459658      ,           1, SEP.XLSX
+2023-09, STATE BANK OF INDIA     , Public   ,          173919526.0 ,           872254.9872282       ,           1, SEP.XLSX
+2023-09, TAMILNAD MERCANTILE BANK, Private  ,            5053547.0 ,            21272.9355          ,           1, SEP.XLSX
+2023-09, UCO BANK                , Public   ,            6782744.0 ,            30155.210957490002  ,           1, SEP.XLSX
+2023-09, UNION BANK OF INDIA     , Public   ,           43168955.0 ,           132642.058637        ,           1, SEP.XLSX
+2023-09, YES BANK                , Private  ,            2759407.0 ,            12606.990837        ,           1, SEP.XLSX
+2023-10, AXIS BANK               , Private  ,           20526891.0 ,           127729.34562301      ,           1, OCT.XLSX
+2023-10, BANDHAN BANK            , Private  ,            2317173.0 ,            12557.144777000001  ,           1, OCT.XLSX
+2023-10, BANK OF BARODA          , Public   ,           26070785.0 ,           123224.871426        ,           1, OCT.XLSX
+2023-10, BANK OF INDIA           , Public   ,           17477557.0 ,            69963.13076100001   ,           1, OCT.XLSX
+2023-10, BANK OF MAHARASHTRA     , Public   ,            6214461.0 ,            26556.445956980002  ,           1, OCT.XLSX
+2023-10, CANARA BANK             , Public   ,           34586705.0 ,           159184.37745300002   ,           1, OCT.XLSX
+2023-10, CENTRAL BANK OF INDIA   , Public   ,            9386218.0 ,            42870.720994        ,           1, OCT.XLSX
+2023-10, CITY UNION BANK         , Private  ,            2779026.0 ,            14412.537995560002  ,           1, OCT.XLSX
+2023-10, CSB BANK                , Private  ,             477058.0 ,             2275.22005         ,           1, OCT.XLSX
+2023-10, DCB BANK                , Private  ,             339854.0 ,             1512.62109371      ,           1, OCT.XLSX
+2023-10, DHANALAKSHMI BANK       , Private  ,             468013.0 ,             2020.60717585      ,           1, OCT.XLSX
+2023-10, FEDERAL BANK            , Private  ,            8587336.0 ,            41962.878631        ,           1, OCT.XLSX
+2023-10, HDFC BANK               , Private  ,           41918364.0 ,           255743.974892        ,           1, OCT.XLSX
+2023-10, ICICI BANK              , Private  ,           19904148.0 ,           133180.115374        ,           1, OCT.XLSX
+2023-10, IDBI BANK               , Private  ,            6047575.0 ,            29898.11642949      ,           1, OCT.XLSX
+2023-10, IDFC FIRST BANK         , Private  ,            4226567.0 ,            20785.657857000002  ,           1, OCT.XLSX
+2023-10, INDIAN BANK             , Public   ,           22069948.0 ,           101492.2094015       ,           1, OCT.XLSX
+2023-10, INDIAN OVERSEAS BANK    , Public   ,           12187005.0 ,            50731.08398876      ,           1, OCT.XLSX
+2023-10, INDUSIND BANK           , Private  ,            4889780.0 ,            30478.539405849024  ,           1, OCT.XLSX
+2023-10, JAMMU AND KASHMIR BANK  , Private  ,            5746076.0 ,            31262.529699000002  ,           1, OCT.XLSX
+2023-10, KARNATAKA BANK          , Private  ,            4083499.0 ,            18685.268035999998  ,           1, OCT.XLSX
+2023-10, KARUR VYSYA BANK        , Private  ,            4711233.0 ,            22605.16587172      ,           1, OCT.XLSX
+2023-10, KOTAK MAHINDRA BANK     , Private  ,           13568103.0 ,            58157.05407718002   ,           1, OCT.XLSX
+2023-10, NAINITAL BANK           , Private  ,              89968.0 ,              418.919781        ,           1, OCT.XLSX
+2023-10, PUNJAB AND SIND BANK    , Public   ,            1547391.0 ,             7191.910400000001  ,           1, OCT.XLSX
+2023-10, PUNJAB NATIONAL BANK    , Public   ,           28574989.0 ,           141247.90077794      ,           1, OCT.XLSX
+2023-10, RBL BANK                , Private  ,             690404.0 ,             3342.814483        ,           1, OCT.XLSX
+2023-10, SOUTH INDIAN BANK       , Private  ,            3054360.0 ,            14140.482440630003  ,           1, OCT.XLSX
+2023-10, STATE BANK OF INDIA     , Public   ,          186706471.0 ,           936941.0             ,           1, OCT.XLSX
+2023-10, TAMILNAD MERCANTILE BANK, Private  ,            5120203.0 ,            21432.462300000003  ,           1, OCT.XLSX
+2023-10, UCO BANK                , Public   ,            7255537.0 ,            32976.35209728      ,           1, OCT.XLSX
+2023-10, UNION BANK OF INDIA     , Public   ,           46519791.0 ,           143268.86292800002   ,           1, OCT.XLSX
+2023-10, YES BANK                , Private  ,            2986291.0 ,            13726.190972999999  ,           1, OCT.XLSX
+2023-11, AXIS BANK               , Private  ,           20140478.0 ,           128323.88388277001   ,           1, NOV.XLSX
+2023-11, BANDHAN BANK            , Private  ,            2279917.0 ,            12341.944732000002  ,           1, NOV.XLSX
+2023-11, BANK OF BARODA          , Public   ,           25378506.0 ,           124180.193037        ,           1, NOV.XLSX
+2023-11, BANK OF INDIA           , Public   ,           17157100.0 ,            70626.117067        ,           1, NOV.XLSX
+2023-11, BANK OF MAHARASHTRA     , Public   ,            6089301.0 ,            27575.902731080005  ,           1, NOV.XLSX
+2023-11, CANARA BANK             , Public   ,           34288108.0 ,           160629.10471900002   ,           1, NOV.XLSX
+2023-11, CENTRAL BANK OF INDIA   , Public   ,            9167335.0 ,            43198.98860800001   ,           1, NOV.XLSX
+2023-11, CITY UNION BANK         , Private  ,            2574375.0 ,            13971.75317476      ,           1, NOV.XLSX
+2023-11, CSB BANK                , Private  ,             467273.0 ,             2238.2414500000004 ,           1, NOV.XLSX
+2023-11, DCB BANK                , Private  ,             345666.0 ,             1462.91951602      ,           1, NOV.XLSX
+2023-11, DHANALAKSHMI BANK       , Private  ,             468219.0 ,             2014.96057912      ,           1, NOV.XLSX
+2023-11, FEDERAL BANK            , Private  ,            8465715.0 ,            41686.100072        ,           1, NOV.XLSX
+2023-11, HDFC BANK               , Private  ,           40968130.0 ,           258865.444352        ,           1, NOV.XLSX
+2023-11, ICICI BANK              , Private  ,           19546695.0 ,           134335.09586899998   ,           1, NOV.XLSX
+2023-11, IDBI BANK               , Private  ,            5921335.0 ,            30100.0264806       ,           1, NOV.XLSX
+2023-11, IDFC FIRST BANK         , Private  ,            4278512.0 ,            21340.872004        ,           1, NOV.XLSX
+2023-11, INDIAN BANK             , Public   ,           21484201.0 ,            99714.32308961      ,           1, NOV.XLSX
+2023-11, INDIAN OVERSEAS BANK    , Public   ,           12068356.0 ,            51229.66531025      ,           1, NOV.XLSX
+2023-11, INDUSIND BANK           , Private  ,            4144529.0 ,            28598.236094929027  ,           1, NOV.XLSX
+2023-11, JAMMU AND KASHMIR BANK  , Private  ,            5678204.0 ,            30963.966186        ,           1, NOV.XLSX
+2023-11, KARNATAKA BANK          , Private  ,            3953392.0 ,            18407.947948        ,           1, NOV.XLSX
+2023-11, KARUR VYSYA BANK        , Private  ,            4480076.0 ,            21934.84202027      ,           1, NOV.XLSX
+2023-11, KOTAK MAHINDRA BANK     , Private  ,           13200498.0 ,            57813.41062766      ,           1, NOV.XLSX
+2023-11, NAINITAL BANK           , Private  ,              81460.0 ,              395.579342        ,           1, NOV.XLSX
+2023-11, PUNJAB AND SIND BANK    , Public   ,            1572971.0 ,             7649.0545          ,           1, NOV.XLSX
+2023-11, PUNJAB NATIONAL BANK    , Public   ,           28028244.0 ,           142590.53795941002   ,           1, NOV.XLSX
+2023-11, RBL BANK                , Private  ,             722131.0 ,             3545.3135030000003 ,           1, NOV.XLSX
+2023-11, SOUTH INDIAN BANK       , Private  ,            3028009.0 ,            14112.624948880002  ,           1, NOV.XLSX
+2023-11, STATE BANK OF INDIA     , Public   ,          179218098.0 ,           921203.9455358799    ,           1, NOV.XLSX
+2023-11, TAMILNAD MERCANTILE BANK, Private  ,            4995579.0 ,            21387.563899999997  ,           1, NOV.XLSX
+2023-11, UCO BANK                , Public   ,            6957989.0 ,            32051.792443000002  ,           1, NOV.XLSX
+2023-11, UNION BANK OF INDIA     , Public   ,           44223755.0 ,           142928.649616        ,           1, NOV.XLSX
+2023-11, YES BANK                , Private  ,            3127933.0 ,            14669.392767000001  ,           1, NOV.XLSX
+2023-12, AXIS BANK               , Private  ,           19942228.0 ,           126223.0036471       ,           1, DEC.XLSX
+2023-12, BANDHAN BANK            , Private  ,            2353387.0 ,            12840.987073999999  ,           1, DEC.XLSX
+2023-12, BANK OF BARODA          , Public   ,           24940155.0 ,           119582.986025        ,           1, DEC.XLSX
+2023-12, BANK OF INDIA           , Public   ,           16734877.0 ,            68012.073742        ,           1, DEC.XLSX
+2023-12, BANK OF MAHARASHTRA     , Public   ,            6116722.0 ,            26625.07758443      ,           1, DEC.XLSX
+2023-12, CANARA BANK             , Public   ,           33924966.0 ,           159020.57307608004   ,           1, DEC.XLSX
+2023-12, CENTRAL BANK OF INDIA   , Public   ,            8938619.0 ,            41286.695067        ,           1, DEC.XLSX
+2023-12, CITY UNION BANK         , Private  ,            2528205.0 ,            13264.5031149       ,           1, DEC.XLSX
+2023-12, CSB BANK                , Private  ,             478537.0 ,             2281.1257          ,           1, DEC.XLSX
+2023-12, DCB BANK                , Private  ,             364597.0 ,             1463.57606497      ,           1, DEC.XLSX
+2023-12, DHANALAKSHMI BANK       , Private  ,             455385.0 ,             1973.23371654      ,           1, DEC.XLSX
+2023-12, FEDERAL BANK            , Private  ,            8761421.0 ,            43668.000683        ,           1, DEC.XLSX
+2023-12, HDFC BANK               , Private  ,           40540285.0 ,           253688.744155        ,           1, DEC.XLSX
+2023-12, ICICI BANK              , Private  ,           19371749.0 ,           132448.243477        ,           1, DEC.XLSX
+2023-12, IDBI BANK               , Private  ,            5803101.0 ,            28896.95090141      ,           1, DEC.XLSX
+2023-12, IDFC FIRST BANK         , Private  ,            4329543.0 ,            21175.150285        ,           1, DEC.XLSX
+2023-12, INDIAN BANK             , Public   ,           21036165.0 ,            97297.54301354      ,           1, DEC.XLSX
+2023-12, INDIAN OVERSEAS BANK    , Public   ,           11965995.0 ,            50405.65882794      ,           1, DEC.XLSX
+2023-12, INDUSIND BANK           , Private  ,            4282083.0 ,            27088.691094059002  ,           1, DEC.XLSX
+2023-12, JAMMU AND KASHMIR BANK  , Private  ,            6040274.0 ,            31297.461691        ,           1, DEC.XLSX
+2023-12, KARNATAKA BANK          , Private  ,            3872276.0 ,            17935.409412        ,           1, DEC.XLSX
+2023-12, KARUR VYSYA BANK        , Private  ,            4505259.0 ,            21728.33342207      ,           1, DEC.XLSX
+2023-12, KOTAK MAHINDRA BANK     , Private  ,           13147856.0 ,            56367.09021524006   ,           1, DEC.XLSX
+2023-12, NAINITAL BANK           , Private  ,              78963.0 ,              371.760123        ,           1, DEC.XLSX
+2023-12, PUNJAB AND SIND BANK    , Public   ,            1549893.0 ,             7426.0995          ,           1, DEC.XLSX
+2023-12, PUNJAB NATIONAL BANK    , Public   ,           27577557.0 ,           138735.94962107998   ,           1, DEC.XLSX
+2023-12, RBL BANK                , Private  ,             792708.0 ,             3683.9670499999997 ,           1, DEC.XLSX
+2023-12, SOUTH INDIAN BANK       , Private  ,            3135742.0 ,            14858.39792962      ,           1, DEC.XLSX
+2023-12, STATE BANK OF INDIA     , Public   ,          172964408.0 ,           881588.11436973      ,           1, DEC.XLSX
+2023-12, TAMILNAD MERCANTILE BANK, Private  ,            4868298.0 ,            20730.7965          ,           1, DEC.XLSX
+2023-12, UCO BANK                , Public   ,            6837579.0 ,            31256.06236737      ,           1, DEC.XLSX
+2023-12, UNION BANK OF INDIA     , Public   ,           46149142.0 ,           142069.8456318       ,           1, DEC.XLSX
+2023-12, YES BANK                , Private  ,            2903242.0 ,            13394.866962        ,           1, DEC.XLSX
